@@ -35,7 +35,8 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" style="filter: invert(100%)" />
+  <!-- White GitHub icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="64" height="64" />
@@ -66,7 +67,7 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" style="filter: invert(100%)" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="64" height="64" />
   </a>
 </div>
 
