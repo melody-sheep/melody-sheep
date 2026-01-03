@@ -9,7 +9,7 @@
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
 
 🔭 **Currently Working On:** Full-stack applications with modern tech stack  
-🌱 **Learning:** Database optimization, cloud technologies, and system design  
+🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
 🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
@@ -28,7 +28,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="64" height="64" style="background-color: white; padding: 5px; border-radius: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
@@ -36,11 +35,11 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" style="filter: invert(100%)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="64" height="64" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Packet_Tracer_Icon.svg/64px-Packet_Tracer_Icon.svg.png" width="64" height="64" title="Cisco Packet Tracer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packettracer/packettracer-original.svg" width="64" height="64" />
 </div>
 
 ---
@@ -52,10 +51,8 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/network/network-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packettracer/packettracer-original.svg" width="64" height="64" />
 </div>
-
-**Focus Areas:** Networking fundamentals, database optimization, and advanced React patterns
 
 ---
 
@@ -69,7 +66,7 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" style="filter: brightness(0) invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" style="filter: invert(100%)" />
   </a>
 </div>
 
