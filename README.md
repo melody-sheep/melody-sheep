@@ -4,8 +4,6 @@
   <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-
-
 **3rd-Year BSIT Student | Database Track**
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
@@ -22,26 +20,26 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 ### **Languages & Frameworks & Databases & Tools**
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/c/00599C" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/expo/000020" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="64" height="64" />
 </div>
 
 ---
@@ -49,10 +47,10 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 # 🎯 Currently Learning
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="64" height="64" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
 </div>
 
 ---
@@ -61,13 +59,13 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alther-liga" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="64" height="64" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" />
   </a>
   <a href="mailto:altheradrian@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="64" height="64" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="64" height="64" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
   </a>
 </div>
 
