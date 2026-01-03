@@ -13,6 +13,10 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
+</div>
+
 ---
 
 # 🛠️ Tech Stack
@@ -67,10 +71,4 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <a href="https://github.com/melody-sheep" target="_blank">
     <img src="./github_logo.png" width="64" height="64"" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
 </div>
