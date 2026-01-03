@@ -14,38 +14,38 @@ Passionate developer and database enthusiast pursuing a Bachelor's in Informatio
 
 ### **Languages**
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ### **Frameworks & Libraries**
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ### **Databases**
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ### **Tools**
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ---
@@ -54,17 +54,18 @@ Passionate developer and database enthusiast pursuing a Bachelor's in Informatio
 
 <div align="center">
   
-  <!-- Fixed GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=8" alt="Most Used Languages" />
+  <!-- GitHub Stats Cards with Fixed URLs -->
+  | Overview | Most Used Languages |
+  |----------|---------------------|
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8) |
   
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=melody-sheep&theme=dark&hide_border=true&background=00000000&stroke=333&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <br>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melody-sheep&theme=dark&hide_border=true&background=0d1117&stroke=333&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
   
   <!-- Activity Graph -->
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melody-sheep&theme=github-dark&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=ffffff" width="100%" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=melody-sheep&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=ffffff)
   
 </div>
 
@@ -73,10 +74,10 @@ Passionate developer and database enthusiast pursuing a Bachelor's in Informatio
 # 🎯 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ---
@@ -84,20 +85,14 @@ Passionate developer and database enthusiast pursuing a Bachelor's in Informatio
 # 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/alther-liga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
   </a>
   <a href="mailto:altheradrian@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
   </a>
-  <a href="https://twitter.com/[your-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.facebook.com/[your-facebook]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/[your-instagram]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/melody-sheep" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
   </a>
 </div>
 
@@ -105,6 +100,6 @@ Passionate developer and database enthusiast pursuing a Bachelor's in Informatio
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&style=flat-square" alt="followers" />
-  <img src="https://img.shields.io/github/stars/melody-sheep?label=Stars&style=flat-square" alt="stars" />
+  <img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a" alt="followers" />
+  <img src="https://img.shields.io/github/stars/melody-sheep?label=Stars&style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a" alt="stars" />
 </div>
