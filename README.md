@@ -51,7 +51,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
-  <span style="font-size:16px; font-weight:bold; margin-left:8px;">Networking</span>
 </div>
 
 ---
