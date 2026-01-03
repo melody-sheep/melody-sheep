@@ -17,10 +17,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
 </div>
 
-<!-- Simple dots -->
-<p align="center">
-  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-</p>
 
 ---
 
@@ -50,10 +46,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="./laravel.png" width="64" height="64" />
 </div>
 
-<!-- Simple dots -->
-<p align="center">
-  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-</p>
 
 ---
 
@@ -67,10 +59,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
 </div>
 
-<!-- Simple dots -->
-<p align="center">
-  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-</p>
 
 ---
 
@@ -88,7 +76,3 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   </a>
 </div>
 
-<!-- Simple dots -->
-<p align="center">
-  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-</p>
