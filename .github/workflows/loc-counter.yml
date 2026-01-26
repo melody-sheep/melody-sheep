@@ -1,5 +1,9 @@
 name: EXACT Lines Counter
 on:
+  schedule:
+    - cron: '0 12 * * 0'  # Every Sunday at 12 PM UTC
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -83,3 +87,4 @@ jobs:
       - name: 5. Results
         run: |
           echo "✅ DONE! Total: ${{ env.total_lines }} lines"
+          echo "⏰ Next automatic run: Every Sunday at 12 PM UTC"
