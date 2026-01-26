@@ -15,7 +15,7 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/tokei/lines/github/melody-sheep?label=Lines%20of%20Code&color=58a6ff&style=flat-square" />
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/melody-sheep/1f6d9eddc383fb51a9f4fa0880f0d1fa/raw/loc.json&style=flat-square" alt="Lines of Code" />
 </div>
 
 
