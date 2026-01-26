@@ -80,7 +80,7 @@ jobs:
           auth: ${{ secrets.GH_TOKEN }}
           gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
           filename: loc.json
-          label: "Exact Code"
+          label: "Code Written"
           message: "${{ env.total_lines }}"
           color: 58a6ff
           
