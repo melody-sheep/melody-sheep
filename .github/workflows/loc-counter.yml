@@ -74,6 +74,13 @@ jobs:
           # Output safely
           echo "total_lines=$TOTAL" >> $GITHUB_ENV
           
+      - name: 3.5 Format number with commas
+        run: |
+          # Format 118750 to 118,750
+          FORMATTED=$(printf "%'d" ${{ env.total_lines }})
+          echo "FORMATTED=$FORMATTED" >> $GITHUB_ENV
+          echo "Formatted number: $FORMATTED"
+          
       - name: 4. Update badge
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
@@ -81,10 +88,10 @@ jobs:
           gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
           filename: loc.json
           label: "Code Written"
-          message: "${{ env.total_lines }}"
+          message: "${{ env.FORMATTED }}"
           color: 58a6ff
           
       - name: 5. Results
         run: |
-          echo "✅ DONE! Total: ${{ env.total_lines }} lines"
+          echo "✅ DONE! Total: ${{ env.FORMATTED }} lines of code"
           echo "⏰ Next automatic run: Every Sunday at 12 PM UTC"
