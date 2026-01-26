@@ -1,90 +1,85 @@
-name: Lines of Code Counter
+name: EXACT Lines Counter
 on:
   workflow_dispatch:
 
 jobs:
-  accurate-counter:
+  exact-count:
     runs-on: ubuntu-latest
     steps:
-      - name: Step 1 - Setup
+      - name: 1. Setup
         run: |
-          echo "🔍 Starting ACCURATE line count..."
+          echo "🚀 Starting EXACT line counter..."
           sudo apt-get update
-          sudo apt-get install -y cloc jq
+          sudo apt-get install -y cloc git
           
-      - name: Step 2 - Count THIS repository accurately
-        id: count-this
+      - name: 2. Get ALL repositories
+        id: get-repos
         run: |
-          echo "📊 Counting current repository..."
+          echo "📋 Getting your repository list..."
           
-          # Count ALL files in THIS repo (melody-sheep/melody-sheep)
-          LINES_IN_THIS_REPO=$(find . -type f \
-            -name "*.py" -o \
-            -name "*.js" -o \
-            -name "*.java" -o \
-            -name "*.c" -o \
-            -name "*.cpp" -o \
-            -name "*.html" -o \
-            -name "*.css" -o \
-            -name "*.php" -o \
-            -name "*.json" -o \
-            -name "*.xml" -o \
-            -name "*.yml" -o \
-            -name "*.yaml" -o \
-            -name "*.md" -o \
-            -name "*.txt" \
-            | xargs cat 2>/dev/null | wc -l)
+          # Get ALL your repos
+          repos=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            "https://api.github.com/users/melody-sheep/repos?per_page=100" | \
+            jq -r '.[].full_name')
+            
+          echo "Found repositories:"
+          echo "$repos"
+          echo ""
+          echo "repo_list=$repos" >> $GITHUB_OUTPUT
           
-          echo "📁 Lines in THIS repo: $LINES_IN_THIS_REPO"
-          echo "current=$LINES_IN_THIS_REPO" >> $GITHUB_OUTPUT
-          
-      - name: Step 3 - Count using GitHub API (all your repos)
-        id: count-all
+      - name: 3. Count EXACT lines from EACH repo
+        id: count-exact
         run: |
-          echo "🌐 Counting ALL your repositories via GitHub API..."
+          echo "🔢 Counting EXACT lines from each repository..."
           
-          # Get ALL your repositories
-          REPOS_JSON=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-            "https://api.github.com/users/melody-sheep/repos?per_page=100")
+          TOTAL=0
+          COUNT=0
           
-          # Count total size in bytes from ALL repos
-          TOTAL_BYTES=0
-          REPO_COUNT=0
-          
-          echo "📋 Your repositories:"
-          echo "$REPOS_JSON" | jq -r '.[].name' | while read repo; do
-            REPO_COUNT=$((REPO_COUNT + 1))
-            echo "  $REPO_COUNT. $repo"
+          # Process each repository
+          for repo in ${{ steps.get-repos.outputs.repo_list }}; do
+            COUNT=$((COUNT + 1))
+            echo ""
+            echo "--- [$COUNT] $repo ---"
+            
+            # Clone the repo
+            if git clone --depth 1 "https://github.com/$repo.git" temp-repo 2>/dev/null; then
+              cd temp-repo
+              
+              # Use cloc for accurate count (excludes comments/blank lines)
+              repo_lines=$(cloc . --exclude-dir=node_modules,.git,dist,build,__pycache__,vendor \
+                --quiet --json 2>/dev/null | jq -r '.SUM.code // 0')
+                
+              echo "✅ Code lines: $repo_lines"
+              TOTAL=$((TOTAL + repo_lines))
+              
+              # Clean up
+              cd ..
+              rm -rf temp-repo
+            else
+              echo "⚠️  Could not clone"
+            fi
           done
           
-          # Calculate total bytes
-          TOTAL_BYTES=$(echo "$REPOS_JSON" | jq '[.[].size] | add')
-          
-          # Convert bytes to approximate lines (1 line ≈ 40 bytes average)
-          APPROX_LINES=$((TOTAL_BYTES / 40))
-          
           echo ""
-          echo "📊 GitHub Statistics:"
-          echo "   Total repositories: $REPO_COUNT"
-          echo "   Total size: $TOTAL_BYTES bytes"
-          echo "   Approximate lines: $APPROX_LINES"
+          echo "🎯 EXACT TOTAL CODE LINES: $TOTAL"
+          echo "📁 Repositories processed: $COUNT"
           echo ""
           
-          echo "total=$APPROX_LINES" >> $GITHUB_OUTPUT
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
           
-      - name: Step 4 - Update badge with ACCURATE count
+      - name: 4. Update badge with EXACT count
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
           auth: ${{ secrets.GH_TOKEN }}
           gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
           filename: loc.json
-          label: "Total Code"
-          message: "${{ steps.count-all.outputs.total }}"
+          label: "Exact Code"
+          message: "${{ steps.count-exact.outputs.total }}"
           color: 58a6ff
           
-      - name: Step 5 - Show results
+      - name: 5. Final results
         run: |
-          echo "✅ ACCURATE COUNT COMPLETE!"
-          echo "🎯 Total lines: ${{ steps.count-all.outputs.total }}"
-          echo "📁 Repositories counted: ALL your public repos"
-          echo "🔢 Method: GitHub API size calculation (most accurate)"
+          echo "✅ EXACT COUNT COMPLETE!"
+          echo "🎯 Total lines of ACTUAL CODE: ${{ steps.count-exact.outputs.total }}"
+          echo "📊 This counts ONLY actual code (no comments, no blanks)"
+          echo "🔍 Check your README badge for the exact number!"
