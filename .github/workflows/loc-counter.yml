@@ -3,37 +3,103 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 12 * * *'  # Runs daily at 12 PM UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Setup Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
 
       - name: Install tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y cloc jq
+          sudo apt-get install -y cloc jq git
 
-      - name: Count lines of code
-        id: count-loc
+      - name: Get list of ALL your repositories
+        id: get-repos
         run: |
-          # Count only actual code (excludes comments and blanks)
-          TOTAL_LOC=$(cloc . --exclude-dir=node_modules,.git,dist,build,__pycache__ --quiet --json | jq -r '.SUM.code // 0')
-          echo "Total LOC: $TOTAL_LOC"
-          echo "total_loc=$TOTAL_LOC" >> $GITHUB_OUTPUT
+          # Get ALL your public repositories (adjust if you have more than 100)
+          REPO_LIST=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            "https://api.github.com/users/melody-sheep/repos?per_page=100&type=all" | \
+            jq -r '.[].full_name')
+          
+          echo "Found repositories:"
+          echo "$REPO_LIST"
+          echo "repos_list=$REPO_LIST" >> $GITHUB_OUTPUT
+          echo "repo_count=$(echo "$REPO_LIST" | wc -l)" >> $GITHUB_OUTPUT
 
-      - name: Update Gist with LOC count
+      - name: Clone and count ALL repositories
+        id: count-all-loc
+        run: |
+          TOTAL_LOC=0
+          PROCESSED_COUNT=0
+          FAILED_COUNT=0
+          
+          # Create directory for all repos
+          mkdir -p /tmp/all-my-repos
+          cd /tmp/all-my-repos
+          
+          echo "=== STARTING TO COUNT ALL REPOSITORIES ==="
+          
+          # Process each repository
+          for REPO_FULL_NAME in ${{ steps.get-repos.outputs.repos_list }}; do
+            PROCESSED_COUNT=$((PROCESSED_COUNT + 1))
+            REPO_NAME=$(echo "$REPO_FULL_NAME" | cut -d'/' -f2)
+            
+            echo ""
+            echo "[$PROCESSED_COUNT] Processing: $REPO_FULL_NAME"
+            
+            # Clone the repository (shallow clone for speed)
+            if git clone --depth 1 "https://github.com/$REPO_FULL_NAME.git" "$REPO_NAME" 2>/dev/null; then
+              cd "$REPO_NAME"
+              
+              # Count lines of code (exclude unnecessary directories)
+              REPO_LOC=$(cloc . \
+                --exclude-dir=node_modules,.git,dist,build,__pycache__,vendor,target,bin,obj,.idea,.vscode \
+                --quiet --json 2>/dev/null | jq -r '.SUM.code // 0')
+              
+              echo "   Lines of code: $REPO_LOC"
+              TOTAL_LOC=$((TOTAL_LOC + REPO_LOC))
+              
+              # Go back to parent directory
+              cd /tmp/all-my-repos
+              
+              # Clean up to save space
+              rm -rf "$REPO_NAME"
+            else
+              echo "   Failed to clone (might be empty or private)"
+              FAILED_COUNT=$((FAILED_COUNT + 1))
+            fi
+          done
+          
+          echo ""
+          echo "=== FINAL RESULTS ==="
+          echo "Total repositories processed: $PROCESSED_COUNT"
+          echo "Failed to process: $FAILED_COUNT"
+          echo "TOTAL LINES OF CODE: $TOTAL_LOC"
+          echo ""
+          
+          echo "total_loc=$TOTAL_LOC" >> $GITHUB_OUTPUT
+          echo "processed_count=$PROCESSED_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update badge with total LOC
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
           auth: ${{ secrets.GH_TOKEN }}
           gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
           filename: loc.json
-          label: Lines of Code
-          message: ${{ steps.count-loc.outputs.total_loc }}
+          label: "Total Code"
+          message: "${{ steps.count-all-loc.outputs.total_loc }} lines"
           color: 58a6ff
+
+      - name: Display summary
+        run: |
+          echo "✅ Successfully counted ALL repositories!"
+          echo "📊 Total Lines of Code: ${{ steps.count-all-loc.outputs.total_loc }}"
+          echo "📁 Repositories processed: ${{ steps.count-all-loc.outputs.processed_count }}"
+          echo "🎉 Your badge should now show the correct total!"
