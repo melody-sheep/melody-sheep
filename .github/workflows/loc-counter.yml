@@ -1,1 +1,29 @@
+name: Lines of Code Counter
+on:
+  workflow_dispatch:
 
+jobs:
+  simple-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install cloc
+        run: sudo apt-get update && sudo apt-get install -y cloc
+        
+      - name: Count total lines (estimate)
+        id: count
+        run: |
+          # For now, set a manual estimate
+          # Change this to your estimated total!
+          ESTIMATE=15000
+          echo "total=$ESTIMATE" >> $GITHUB_OUTPUT
+          echo "Setting to: $ESTIMATE lines"
+          
+      - name: Update badge
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GH_TOKEN }}
+          gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
+          filename: loc.json
+          label: "Total Code"
+          message: "${{ steps.count.outputs.total }}"
+          color: 58a6ff
