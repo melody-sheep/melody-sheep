@@ -10,42 +10,44 @@ jobs:
         run: |
           echo "🚀 Starting EXACT line counter..."
           sudo apt-get update
-          sudo apt-get install -y cloc git
+          sudo apt-get install -y cloc git jq
           
-      - name: 2. Get ALL repositories
+      - name: 2. Get repositories (safe method)
         id: get-repos
         run: |
-          echo "📋 Getting your repository list..."
+          echo "📋 Getting repository list (safe mode)..."
           
-          # Get ALL your repos
-          repos=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          # Get repos and save to file instead of output
+          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             "https://api.github.com/users/melody-sheep/repos?per_page=100" | \
-            jq -r '.[].full_name')
+            jq -r '.[].full_name' > /tmp/repo_list.txt
             
-          echo "Found repositories:"
-          echo "$repos"
-          echo ""
-          echo "repo_list=$repos" >> $GITHUB_OUTPUT
+          echo "✅ Repository list saved to file"
+          echo "Preview:"
+          head -10 /tmp/repo_list.txt
           
-      - name: 3. Count EXACT lines from EACH repo
+      - name: 3. Count EXACT lines (fixed for special chars)
         id: count-exact
         run: |
-          echo "🔢 Counting EXACT lines from each repository..."
+          echo "🔢 Counting EXACT lines..."
           
           TOTAL=0
           COUNT=0
           
-          # Process each repository
-          for repo in ${{ steps.get-repos.outputs.repo_list }}; do
+          # Read from file instead of variable
+          while IFS= read -r repo || [ -n "$repo" ]; do
             COUNT=$((COUNT + 1))
             echo ""
-            echo "--- [$COUNT] $repo ---"
+            echo "--- [$COUNT] Processing: $repo ---"
             
-            # Clone the repo
-            if git clone --depth 1 "https://github.com/$repo.git" temp-repo 2>/dev/null; then
-              cd temp-repo
+            # Clean repo name for directory
+            clean_name=$(echo "$repo" | sed 's/[^a-zA-Z0-9]/_/g')
+            
+            # Clone with timeout
+            if timeout 60 git clone --depth 1 "https://github.com/$repo.git" "$clean_name" 2>/dev/null; then
+              cd "$clean_name"
               
-              # Use cloc for accurate count (excludes comments/blank lines)
+              # Count lines
               repo_lines=$(cloc . --exclude-dir=node_modules,.git,dist,build,__pycache__,vendor \
                 --quiet --json 2>/dev/null | jq -r '.SUM.code // 0')
                 
@@ -54,32 +56,30 @@ jobs:
               
               # Clean up
               cd ..
-              rm -rf temp-repo
+              rm -rf "$clean_name"
             else
-              echo "⚠️  Could not clone"
+              echo "⚠️  Could not clone or empty"
             fi
-          done
+          done < /tmp/repo_list.txt
           
           echo ""
           echo "🎯 EXACT TOTAL CODE LINES: $TOTAL"
           echo "📁 Repositories processed: $COUNT"
           echo ""
           
-          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          # Output safely
+          echo "total_lines=$TOTAL" >> $GITHUB_ENV
           
-      - name: 4. Update badge with EXACT count
+      - name: 4. Update badge
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
           auth: ${{ secrets.GH_TOKEN }}
           gistID: 1f6d9eddc383fb51a9f4fa0880f0d1fa
           filename: loc.json
           label: "Exact Code"
-          message: "${{ steps.count-exact.outputs.total }}"
+          message: "${{ env.total_lines }}"
           color: 58a6ff
           
-      - name: 5. Final results
+      - name: 5. Results
         run: |
-          echo "✅ EXACT COUNT COMPLETE!"
-          echo "🎯 Total lines of ACTUAL CODE: ${{ steps.count-exact.outputs.total }}"
-          echo "📊 This counts ONLY actual code (no comments, no blanks)"
-          echo "🔍 Check your README badge for the exact number!"
+          echo "✅ DONE! Total: ${{ env.total_lines }} lines"
