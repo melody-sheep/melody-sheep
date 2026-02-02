@@ -13,10 +13,8 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/melody-sheep/1f6d9eddc383fb51a9f4fa0880f0d1fa/raw/loc.json&style=flat-square" alt="Lines of Code" />
-</div>
+<!-- Option 1: Static badge -->
+<img src="https://img.shields.io/badge/Lines_of_Code-300.000-58a6ff?style=flat-square" alt="Lines of Code" />
 
 
 ---
