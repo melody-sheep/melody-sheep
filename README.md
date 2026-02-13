@@ -1,14 +1,14 @@
- <!-- Banner -->
+<!-- Banner -->
 
 <p align="center">
   <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-**3rd-Year BSIT Student | Database Track**
+**3rd-Year BSIT Student | Database Track | Full-Stack Developer**
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
 
-🔭 **Currently Working On:** Full-stack applications with modern tech stack  
+🔭 **Currently Working On:** [POS AI DB Manager](https://github.com/melody-sheep/POS-AI-DB-Manager) - AI-powered Point of Sale system with database management  
 🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
 🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
@@ -18,7 +18,27 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
  <img src="https://img.shields.io/badge/Lines_of_Code-346541-58a6ff?style=flat-square" alt="Lines of Code" />
 </div>
 
+---
 
+# 🚀 Featured Project: POS AI DB Manager
+
+### **AI-Powered Point of Sale System with Database Management**
+
+A full-stack Point of Sale system built with Laravel, featuring AI-powered insights and comprehensive database management capabilities. This system streamlines retail operations with intelligent inventory tracking, sales analytics, and role-based access control.
+
+**Key Features:**
+- 🤖 AI-powered sales predictions and inventory optimization
+- 📊 Real-time analytics dashboard with visual reports
+- 👥 Multi-role user management (Admin, Cashier, Manager)
+- 🛒 Intuitive POS interface with quick transactions
+- 📦 Automated inventory tracking and low-stock alerts
+- 🔐 Secure authentication and role-based access
+- 💾 Advanced database management with backup/restore
+- 📱 Responsive design for desktop and tablet use
+
+**Tech Stack:** Laravel • MySQL • Tailwind CSS • Alpine.js • Chart.js • REST APIs
+
+[🔗 View Repository](https://github.com/melody-sheep/POS-AI-DB-Manager) | [📖 Live Demo](https://your-demo-link.com) | [📄 Documentation](https://your-docs-link.com)
 
 ---
 
@@ -42,12 +62,11 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="./github_logo.png" width="64" height="64"" />
+  <img src="./github_logo.png" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
   <img src="./laravel.png" width="64" height="64" />
 </div>
-
 
 ---
 
@@ -61,7 +80,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
 </div>
 
-
 ---
 
 # 📫 Connect With Me
@@ -74,6 +92,6 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="./github_logo.png" width="64" height="64"" />
+    <img src="./github_logo.png" width="64" height="64" />
   </a>
 </div>
