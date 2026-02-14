@@ -4,8 +4,6 @@
   <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Alther Adrian Liga
-
 **3rd-Year BSIT Student | Database Track | Full-Stack Developer**
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
@@ -52,7 +50,6 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" />
@@ -60,17 +57,17 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
+  <img src="./github_logo.png" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="64" height="64" />
+  <img src="./laravel.png" width="64" height="64" />
 </div>
 
 ---
@@ -78,27 +75,13 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
 # 🎯 Currently Learning
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="64" height="64" />
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melody-sheep&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
 </div>
 
 ---
@@ -113,40 +96,6 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/64/twitter--v1.png" width="64" height="64" />
-  </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/64/facebook-new.png" width="64" height="64" />
+    <img src="./github_logo.png" width="64" height="64" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melody-sheep&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/melody-sheep/melody-sheep/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <b>💻 Always learning, always building, always growing.</b>
-</p>
-
-<p align="center">
-  <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/melody-sheep?tab=repositories">View My Repositories</a> |
-  <a href="https://your-portfolio-link.com">Portfolio</a> |
-  <a href="https://your-blog-link.com">Blog</a>
-</p>
