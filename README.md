@@ -1,10 +1,8 @@
-<!-- Banner with Particle Background -->
+<!-- Banner -->
 
-<div align="center" style="position: relative; overflow: hidden;">
-  <div style="position: relative; z-index: 1;">
-    <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
-  </div>
-</div>
+<p align="center">
+  <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
+</p>
 
 **3rd-Year BSIT Student | Database Track | Full-Stack Developer**
 
@@ -60,17 +58,17 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" />
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="./github_logo.png" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
-  <img src="./laravel.png" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="64" height="64" />
 </div>
 
 ---
@@ -85,7 +83,7 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
 </div>
 
 ---
@@ -100,123 +98,43 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="./github_logo.png" width="64" height="64" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
   </a>
 </div>
 
-<!-- Particle Effect Background -->
-<div id="particle-background" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none;"></div>
-
-<script>
-  (function() {
-    // Create canvas element
-    const canvas = document.createElement('canvas');
-    const ctx = canvas.getContext('2d');
-    
-    // Set canvas styles
-    canvas.style.position = 'fixed';
-    canvas.style.top = '0';
-    canvas.style.left = '0';
-    canvas.style.width = '100%';
-    canvas.style.height = '100%';
-    canvas.style.zIndex = '-1';
-    canvas.style.pointerEvents = 'none';
-    
-    // Add canvas to the particle background div
-    document.getElementById('particle-background').appendChild(canvas);
-    
-    // Particle class
-    class Particle {
-      constructor() {
-        this.x = Math.random() * canvas.width;
-        this.y = Math.random() * canvas.height;
-        this.vx = (Math.random() - 0.5) * 0.5;
-        this.vy = (Math.random() - 0.5) * 0.5;
-        this.size = Math.random() * 3 + 1;
-        this.color = `hsl(${Math.random() * 360}, 70%, 60%)`;
-      }
-      
-      update() {
-        this.x += this.vx;
-        this.y += this.vy;
-        
-        // Wrap around edges
-        if (this.x < 0) this.x = canvas.width;
-        if (this.x > canvas.width) this.x = 0;
-        if (this.y < 0) this.y = canvas.height;
-        if (this.y > canvas.height) this.y = 0;
-      }
-      
-      draw() {
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-        ctx.fillStyle = this.color;
-        ctx.fill();
-      }
-    }
-    
-    // Resize handler
-    function resizeCanvas() {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
-    }
-    
-    window.addEventListener('resize', resizeCanvas);
-    resizeCanvas();
-    
-    // Create particles
-    const particles = [];
-    const particleCount = 100;
-    
-    for (let i = 0; i < particleCount; i++) {
-      particles.push(new Particle());
-    }
-    
-    // Animation loop
-    function animate() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      
-      particles.forEach(particle => {
-        particle.update();
-        particle.draw();
-      });
-      
-      // Draw connections between nearby particles
-      particles.forEach((particle, i) => {
-        particles.slice(i + 1).forEach(otherParticle => {
-          const dx = particle.x - otherParticle.x;
-          const dy = particle.y - otherParticle.y;
-          const distance = Math.sqrt(dx * dx + dy * dy);
-          
-          if (distance < 100) {
-            ctx.beginPath();
-            ctx.strokeStyle = `rgba(100, 100, 255, ${0.2 * (1 - distance / 100)})`;
-            ctx.lineWidth = 0.5;
-            ctx.moveTo(particle.x, particle.y);
-            ctx.lineTo(otherParticle.x, otherParticle.y);
-            ctx.stroke();
-          }
-        });
-      });
-      
-      requestAnimationFrame(animate);
-    }
-    
-    animate();
-  })();
-</script>
+<!-- Animated CSS Gradient Background -->
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
 
 <style>
-  /* Ensure content is readable over particles */
-  body {
-    background: transparent !important;
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
   }
-  
-  .markdown-body {
-    background: rgba(255, 255, 255, 0.95) !important;
-    backdrop-filter: blur(5px);
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px;
+  50% {
+    background-position: 100% 50%;
   }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Make content readable */
+.markdown-body {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  padding: 20px !important;
+  margin: 10px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure images are visible */
+img {
+  background-color: transparent !important;
+}
+
+/* Style for code blocks if any */
+pre, code {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
 </style>
