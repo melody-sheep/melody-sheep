@@ -10,7 +10,7 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 
 🔭 **Currently Working On:** [POS AI DB Manager](https://github.com/melody-sheep/POS-AI-DB-Manager) - AI-powered Point of Sale system with database management  
 🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
-🎯 **Goal:** Every line of code is an opportunity to learn something new. I embrace challenges as learning experiences and believe that mastery comes from continuous curiosity and hands-on practice.  
+🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
 <div>
@@ -58,17 +58,17 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
+  <img src="./github_logo.png" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="64" height="64" />
+  <img src="./laravel.png" width="64" height="64" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="64" height="64" alt="Cisco Packet Tracer Logo" />
 </div>
 
 ---
@@ -98,43 +98,6 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
     <img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" />
   </a>
   <a href="https://github.com/melody-sheep" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
+    <img src="./github_logo.png" width="64" height="64" />
   </a>
 </div>
-
-<!-- Animated CSS Gradient Background -->
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
-
-<style>
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-/* Make content readable */
-.markdown-body {
-  background-color: rgba(255, 255, 255, 0.95) !important;
-  backdrop-filter: blur(10px);
-  border-radius: 10px;
-  padding: 20px !important;
-  margin: 10px !important;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-/* Ensure images are visible */
-img {
-  background-color: transparent !important;
-}
-
-/* Style for code blocks if any */
-pre, code {
-  background-color: rgba(0, 0, 0, 0.05) !important;
-}
-</style>
