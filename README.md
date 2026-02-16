@@ -10,7 +10,7 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 
 🔭 **Currently Working On:** [POS AI DB Manager](https://github.com/melody-sheep/POS-AI-DB-Manager) - AI-powered Point of Sale system with database management  
 🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
-🎯 **Goal:** Become a proficient database administrator and full-stack developer  
+🎯 **Goal:** Every line of code is an opportunity to learn something new. I embrace challenges as learning experiences and believe that mastery comes from continuous curiosity and hands-on practice.  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
 <div>
