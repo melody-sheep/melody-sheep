@@ -8,7 +8,7 @@
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
 
-🔭 **Currently Working On:** [POS AI DB Manager](https://github.com/melody-sheep/POS-AI-DB-Manager) - AI-powered Point of Sale system with database management  
+🔭 **Currently Working On:** [POS AI DB Manager]([https://github.com/melody-sheep/POS-AI-DB-Manager](https://github.com/melody-sheep/pos-ai-powerered)) - AI-powered Point of Sale system with database management  
 🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
 🎯 **Goal:** Become a proficient database administrator and full-stack developer  
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
