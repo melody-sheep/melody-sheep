@@ -1,5 +1,3 @@
-<!-- Banner -->
-
 <p align="center">
   <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
@@ -8,9 +6,9 @@
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
 
-🔭 **Currently Working On:** [pos-ai-powerered](https://github.com/melody-sheep/pos-ai-powerered) - AI-powered Point of Sale system with database management  
-🌱 **Learning:** Database optimization, cloud technologies, system design, and networking  
-🎯 **Goal:** Become a proficient database administrator and full-stack developer  
+🔭 **Currently Working On:** [chemstock-app](https://github.com/melody-sheep/chemstock-app) - QR-Enabled Mobile Inventory System for Cospachem Products.
+🌱 **Learning:** React Native, Expo, SQLite, and Mobile-First Database Optimization.
+🎯 **Goal:** Become a proficient database administrator and full-stack developer.
 📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
 
 <div>
@@ -20,25 +18,23 @@ I am a passionate developer and database enthusiast currently pursuing a Bachelo
 
 ---
 
-# 🚀 Featured Project: POS AI DB Manager
+# 🚀 Featured Project: ChemStock
 
-### **AI-Powered Point of Sale System with Database Management**
+### **QR-Enabled Mobile Inventory Management System**
 
-A full-stack Point of Sale system built with Laravel, featuring AI-powered insights and comprehensive database management capabilities. This system streamlines retail operations with intelligent inventory tracking, sales analytics, and role-based access control.
+ChemStock is an Android-based mobile inventory management system designed for **A and Aimee Laboratories (Cospachem Products)**. The system streamlines inventory operations for distributed sales forces by digitizing manual, paper-based processes into a centralized, efficient, and accountable digital platform.
 
 **Key Features:**
-- 🤖 AI-powered sales predictions and inventory optimization
-- 📊 Real-time analytics dashboard with visual reports
-- 👥 Multi-role user management (Admin, Cashier, Manager)
-- 🛒 Intuitive POS interface with quick transactions
-- 📦 Automated inventory tracking and low-stock alerts
-- 🔐 Secure authentication and role-based access
-- 💾 Advanced database management with backup/restore
-- 📱 Responsive design for desktop and tablet use
+- 📱 **Mobile Inventory Management:** Centralized digital platform for receiving, releasing, and returning stocks.
+- 🔍 **QR-Based Tracking:** Scannable QR codes for each product batch to automate item identification and inventory checking.
+- 📍 **Geo-Tagged Chain of Custody:** Captures GPS coordinates during stock release and receipt to verify handover locations.
+- 📸 **Photo Documentation:** Mandatory timestamped photo evidence for stock handovers to resolve disputes.
+- ⚠️ **Automated Discrepancy Alerts:** Real-time flagging of stock variances to minimize agent-level losses.
+- 📊 **Customizable Reporting:** Automated inventory reconciliation for branch management and audits.
 
-**Tech Stack:** Laravel • MySQL • Tailwind CSS • Alpine.js • Chart.js • REST APIs
+**Tech Stack:** React Native • Expo • SQLite • Express.js • QR Code Generation
 
-[🔗 View Repository](https://github.com/melody-sheep/POS-AI-DB-Manager) | [📖 Live Demo](https://your-demo-link.com) | [📄 Documentation](https://your-docs-link.com)
+[🔗 View Repository](https://github.com/melody-sheep/chemstock-app)
 
 ---
 
@@ -52,19 +48,9 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64" /></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /></td>
   </tr>
   <tr>
@@ -84,12 +70,10 @@ A full-stack Point of Sale system built with Laravel, featuring AI-powered insig
 
 <table align="left">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /></td>
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /></td>
   </tr>
 </table>
