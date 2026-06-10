@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Alther Adrian Liga Banner" width="100%" />
+  <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
 **3rd-Year BSIT Student | Database Track | Full-Stack Developer**
