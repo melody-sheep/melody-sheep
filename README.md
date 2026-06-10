@@ -68,11 +68,11 @@ ChemStock is an Android-based mobile inventory management system designed for **
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" /></td>
+    <td><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="64" height="64" /></td>
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drawio/drawio-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="64" height="64" /></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@ ChemStock is an Android-based mobile inventory management system designed for **
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="64" height="64" /></td>
+    <td><img src="https://img.icons8.com/color/64/expo.png" width="64" height="64" /></td>
   </tr>
 </table>
 
@@ -105,8 +105,8 @@ ChemStock is an Android-based mobile inventory management system designed for **
   <tr>
     <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a></td>
     <td><a href="mailto:altheradrian@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a></td>
-    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" /></a></td>
+    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a></td>
   </tr>
-</table>
+<table>
 
 <br clear="left"/>
