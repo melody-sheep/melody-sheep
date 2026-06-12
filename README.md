@@ -35,7 +35,7 @@ ChemStock is an Android-based mobile inventory management system designed for **
 - ⚠️ **Automated Discrepancy Alerts:** Real-time flagging of stock variances to minimize agent-level losses.
 - 📊 **Customizable Reporting:** Automated inventory reconciliation for branch management and audits.
 
-**Tech Stack:** React Native • Expo • SQLite • Express.js • QR Code Generation
+**Tech Stack:** React Native • Expo • SQLite • Express.js • QR Code Generation • Supabase • PostgreSQL
 
 [🔗 View Repository](https://github.com/melody-sheep/chemstock-app)
 
@@ -47,32 +47,34 @@ ChemStock is an Android-based mobile inventory management system designed for **
 
 <table align="left">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" /> <br/>HTML5</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" /> <br/>CSS3</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" /> <br/>JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React JS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /> <br/>Node.js</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" /> <br/>Express.js</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" /> <br/>Next.js</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /> <br/>Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" /> <br/>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" /> <br/>C</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" /> <br/>C++</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" /></td>
-    <td><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="64" height="64" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" /> <br/>Git</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" /> <br/>Figma</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" /> <br/>VS Code</td>
+    <td><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /> <br/>GitHub</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" height="64" /> <br/>Android</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="64" height="64" /> <br/>Firebase</td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="64" height="64" /> <br/>Slack</td>
   </tr>
 </table>
 
@@ -84,14 +86,14 @@ ChemStock is an Android-based mobile inventory management system designed for **
 
 <table align="left">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /></td>
-    <td><img src="https://img.icons8.com/color/64/expo.png" width="64" height="64" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" /> <br/>Express.js</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</td>
+    <td><img src="https://img.icons8.com/color/64/expo.png" width="64" height="64" /> <br/>Expo</td>
   </tr>
 </table>
 
@@ -103,10 +105,12 @@ ChemStock is an Android-based mobile inventory management system designed for **
 
 <table align="left">
   <tr>
-    <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a></td>
-    <td><a href="mailto:altheradrian@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a></td>
-    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a></td>
+    <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a> <br/>LinkedIn</td>
+    <td><a href="mailto:altheradrian@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a> <br/>Gmail</td>
+    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a> <br/>GitHub</td>
   </tr>
-<table>
+</table>
 
 <br clear="left"/>
+
+---
