@@ -2,7 +2,7 @@
   <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-**3rd-Year BSIT Student | Database Track | Full-Stack Developer**
+**3rd-Year BSIT Student | Database Track | 3rd-Year BSIT Student | Database Track | Learning Mobile and Full-Stack Development**
 
 I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
 
