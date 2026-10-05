@@ -2,115 +2,90 @@
   <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-**3rd-Year BSIT Student | Database Track | Full-Stack Developer**
+<h3 align="center">3rd-Year BSIT Student · Database Track · Full-Stack Developer</h3>
 
-I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
-
-🔭 **Currently Working On:** [chemstock-app](https://github.com/melody-sheep/chemstock-app) - QR-Enabled Mobile Inventory System for Cospachem Products.
-
-🌱 **Learning:** React Native, Expo, SQLite, and Mobile-First Database Optimization.
-
-🎯 **Goal:** Become a proficient database administrator and full-stack developer.
-
-📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Lines_of_Code-346541-58a6ff?style=flat-square" alt="Lines of Code" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Featured Project: ChemStock
+## 👋 About Me
 
-### **QR-Enabled Mobile Inventory Management System**
+I'm a 3rd-year BSIT student at the **University of Science and Technology of Southern Philippines**. I focus on database design and mobile development, and I enjoy writing clean code and building systems that are efficient and easy to maintain.
 
-ChemStock is an Android-based mobile inventory management system designed for **A and Aimee Laboratories (Cospachem Products)**. The system streamlines inventory operations for distributed sales forces by digitizing manual, paper-based processes into a centralized, efficient, and accountable digital platform.
-
-**Key Features:**
-- 📱 **Mobile Inventory Management:** Centralized digital platform for receiving, releasing, and returning stocks.
-- 🔍 **QR-Based Tracking:** Scannable QR codes for each product batch to automate item identification and inventory checking.
-- 📍 **Geo-Tagged Chain of Custody:** Captures GPS coordinates during stock release and receipt to verify handover locations.
-- 📸 **Photo Documentation:** Mandatory timestamped photo evidence for stock handovers to resolve disputes.
-- ⚠️ **Automated Discrepancy Alerts:** Real-time flagging of stock variances to minimize agent-level losses.
-- 📊 **Customizable Reporting:** Automated inventory reconciliation for branch management and audits.
-
-**Tech Stack:** React Native • Expo • SQLite • Express.js • QR Code Generation • Supabase • PostgreSQL
-
-[🔗 View Repository](https://github.com/melody-sheep/chemstock-app)
+- 🔭 **Currently working on:** [ChemStock](https://github.com/melody-sheep/chemstock-app), a QR-enabled mobile inventory system
+- 🌱 **Learning:** React Native, Expo, mobile-first database design, and offline-first data sync
+- 🎯 **Goal:** Become a proficient database administrator and full-stack developer
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Featured Project: ChemStock
 
-### Languages, Frameworks, Databases & Tools
+**QR-Enabled Mobile Inventory Management System**
+*Capstone project · in development · pilot planned for late 2026*
 
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" /> <br/>HTML5</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" /> <br/>CSS3</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" /> <br/>JavaScript</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React JS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /> <br/>Node.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" style="background-color: #000000; border-radius: 8px; padding: 8px;" /> <br/>Express.js</br></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" /> <br/>Next.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /> <br/>Python</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" /> <br/>Java</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" /> <br/>C</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" /> <br/>C++</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</br></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" /> <br/>Git</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" /> <br/>Figma</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" /> <br/>VS Code</br></td>
-    <td><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /> <br/>GitHub</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" height="64" /> <br/>Android</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="64" height="64" /> <br/>Firebase</br></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="64" height="64" /> <br/>Slack</br></td>
-  </tr>
-</table>
+ChemStock replaces paper-based stock handling for **A and Aimee Laboratories (Cospachem Products)** with a single digital system. It covers how stock moves between the branch warehouse, sales reps, and collectors, and records who handled it, where, and when.
 
-<br clear="left"/>
+**What it does**
+
+- 📦 **Receiving and releasing stock** through QR-coded batches, with product dates and quantities
+- 🔍 **QR tracking** so each batch can be scanned and checked at any point
+- 📍 **Location-tagged handovers** with GPS coordinates for each release and receipt
+- 📸 **Photo proof** of every handover, with timestamp and device details
+- 🚚 **Delivery tracking** through checkpoints logged by collectors, with live online status
+- 🏬 **Multi-branch support**, so one manager or rep can cover more than one branch
+- ⚠️ **Discrepancy alerts** that flag differences between released and reported stock
+
+**Who uses it**
+
+| Role | Responsibility |
+|---|---|
+| Super Admin | Generates manager activation keys (web admin tool) |
+| Branch Manager | Receives and releases stock, manages staff accounts |
+| Sales Rep | Receives stock, sells, files daily reports, returns stock |
+| Collector | Carries stock from the branch to sales reps and logs checkpoints |
+
+**Tech stack**
+
+- **Mobile:** React Native, Expo SDK 57, React Navigation
+- **Backend:** Supabase (PostgreSQL, Auth, Storage), with row-level security and SQL functions
+- **Admin tool:** Node.js, Express.js, web dashboard
+- **Maps:** Leaflet with OpenStreetMap, inside a WebView (no paid API key)
+- **Planned:** SQLite for offline sync
+
+[🔗 View the repository](https://github.com/melody-sheep/chemstock-app)
 
 ---
 
-# 🎯 Currently Learning
+## 🛠️ Tech Stack
 
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</br></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" style="background-color: #000000; border-radius: 8px; padding: 8px;" /> <br/>Express.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</br></td>
-    <td><img src="https://img.icons8.com/color/64/expo.png" width="64" height="64" /> <br/>Expo</br></td>
-  </tr>
-</table>
-
-<br clear="left"/>
+| Area | Tools |
+|---|---|
+| Languages | JavaScript, SQL, HTML, CSS |
+| Mobile | React Native, Expo |
+| Database | PostgreSQL, Supabase |
+| Backend | Node.js, Express.js |
+| Tools | Git, GitHub, VS Code, Figma |
 
 ---
 
-# 📫 Connect With Me
+## 🎯 Currently Learning
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a> <br/>LinkedIn</br></td>
-    <td><a href="mailto:altheradrian@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a> <br/>Gmail</br></td>
-    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a> <br/>GitHub</br></td>
-  </tr>
-</table>
+React Native · Expo · PostgreSQL · SQLite · Supabase · Mobile-first database design
 
-<br clear="left"/>
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alther-liga)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altheradrian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melody-sheep)
+
+📧 altheradrian@gmail.com · 📱 0962 694 8128 · 📍 Philippines
 
 ---
