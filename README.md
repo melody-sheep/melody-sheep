@@ -2,57 +2,68 @@
   <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-<h1 align="center">Alther Adrian Liga</h1>
-
 <p align="center">
-  <a href="https://github.com/melody-sheep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Database-Focused+Developer;Mobile+and+Full-Stack+Development;Building+ChemStock+with+React+Native+%2B+Supabase" alt="Typing intro" />
-  </a>
+  <img src="https://img.shields.io/badge/CLASSIFIED-DEVELOPER_DOSSIER-E10600?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
-  <a href="https://github.com/melody-sheep?tab=followers"><img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&style=flat-square&color=58a6ff" /></a>
-  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Featured-ChemStock-58a6ff?style=flat-square" /></a>
-  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://tokei.rs/b1/github/melody-sheep/chemstock-app?category=code&label=Lines%20of%20Code&style=flat-square&color=58a6ff" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&height=40&lines=%3E+INITIALIZING+SECURE+CONNECTION...;%3E+SUBJECT%3A+ALTHER+ADRIAN+LIGA;%3E+ROLE%3A+DATABASE-FOCUSED+DEVELOPER;%3E+SPECIALTY%3A+MOBILE+AND+FULL-STACK+SYSTEMS;%3E+ACTIVE+OPERATION%3A+CHEMSTOCK" alt="Terminal intro" />
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=melody-sheep&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%23E10600&style=flat-square" />
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codetabs.com%2Fv1%2Floc%3Fgithub%3Dmelody-sheep%2Fchemstock-app&query=%24%5B-1%3A%5D.linesOfCode&label=LINES%20OF%20CODE&labelColor=000000&color=E10600&style=flat-square" /></a>
+  <a href="https://github.com/melody-sheep?tab=followers"><img src="https://img.shields.io/github/followers/melody-sheep?label=FOLLOWERS&labelColor=000000&color=E10600&style=flat-square" /></a>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/ACTIVE_OPERATION-CHEMSTOCK-E10600?style=flat-square&labelColor=000000" /></a>
 </p>
 
 ---
 
-## About Me
+## `// FILE 01` SUBJECT PROFILE
 
-I am a developer with a strong focus on databases, building systems that are clean, efficient, and easy to maintain. I enjoy taking a real-world process, modeling it properly at the data layer, and turning it into an application people can rely on every day.
+```
+SUBJECT        : ALTHER ADRIAN LIGA
+DESIGNATION    : DATABASE-FOCUSED DEVELOPER
+SPECIALTY      : MOBILE  /  FULL-STACK  /  DATA SYSTEMS
+CURRENT OP     : CHEMSTOCK  -  QR-ENABLED INVENTORY SYSTEM
+OBJECTIVE      : DATABASE ADMINISTRATOR  +  FULL-STACK DEVELOPER
+STATUS         : ACTIVE  -  OPEN TO COLLABORATION
+```
 
-### What I Bring
-
-| Strength | What It Means in Practice |
-|---|---|
-| **Database Design** | Structuring relational schemas in PostgreSQL and Supabase with clear relationships, constraints, and room to scale |
-| **Mobile Development** | Building Android apps with React Native and Expo, including offline-ready data handling with SQLite |
-| **Full-Stack Development** | Connecting front ends to back ends through Express.js APIs and modern frameworks like React and Next.js |
-| **Clean, Maintainable Code** | Writing readable code that teammates can pick up, review, and extend without friction |
-| **Design to Delivery** | Moving from Figma prototypes to working screens, and collaborating through Git and GitHub |
-
-**Currently working on:** [ChemStock](https://github.com/melody-sheep/chemstock-app), a QR-enabled mobile inventory system
-**Currently learning:** React Native, Expo, SQLite, and mobile-first database optimization
-**Goal:** Grow into a proficient database administrator and full-stack developer
+I build systems that are clean, efficient, and easy to maintain. My approach starts at the data layer: model the real-world process correctly, then build an application people can rely on every day.
 
 ---
 
-## Featured Project: ChemStock
+## `// FILE 02` CAPABILITIES
 
-### QR-Enabled Mobile Inventory Management System
+| Capability | Field Application |
+|:---|:---|
+| **Database Design** | Relational schemas in PostgreSQL and Supabase with clear relationships, constraints, and room to scale |
+| **Mobile Development** | Android apps with React Native and Expo, including offline-ready data handling with SQLite |
+| **Full-Stack Development** | Express.js APIs connected to modern front ends built with React and Next.js |
+| **Clean, Maintainable Code** | Readable code that teammates can review and extend without friction |
+| **Design to Delivery** | From Figma prototypes to working screens, managed through Git and GitHub |
 
-*In development · pilot planned for late 2026*
+---
 
-ChemStock is an Android-based inventory system for **A and Aimee Laboratories (Cospachem Products)**. It replaces paper-based stock handling with a single digital system that records how stock moves between the branch warehouse, sales reps, and collectors, along with who handled it, where, and when.
+## `// FILE 03` ACTIVE OPERATION: CHEMSTOCK
+
+```
+OPERATION      : CHEMSTOCK
+TYPE           : QR-ENABLED MOBILE INVENTORY MANAGEMENT SYSTEM
+CLIENT         : A AND AIMEE LABORATORIES (COSPACHEM PRODUCTS)
+PLATFORM       : ANDROID
+STATUS         : IN DEVELOPMENT  -  PILOT PLANNED LATE 2026
+```
+
+ChemStock replaces paper-based stock handling with a single digital system that records how stock moves between the branch warehouse, sales reps, and collectors, along with who handled it, where, and when.
 
 <details>
-<summary><b>View key features</b></summary>
+<summary><b>[ DECLASSIFY ] Key features</b></summary>
 <br/>
 
 | Feature | Description |
-|---|---|
+|:---|:---|
 | **Mobile Inventory Management** | Receive, release, and return stock from one app |
 | **QR-Based Tracking** | Scannable QR codes for every product batch |
 | **Geo-Tagged Chain of Custody** | GPS coordinates captured at each release and receipt |
@@ -64,11 +75,11 @@ ChemStock is an Android-based inventory system for **A and Aimee Laboratories (C
 </details>
 
 <details>
-<summary><b>View user roles</b></summary>
+<summary><b>[ DECLASSIFY ] Access levels</b></summary>
 <br/>
 
-| Role | Responsibility |
-|---|---|
+| Clearance | Responsibility |
+|:---|:---|
 | **Super Admin** | Issues activation keys and oversees the system |
 | **Branch Manager** | Manages branch stock and releases |
 | **Sales Rep** | Receives and reports stock in the field |
@@ -77,20 +88,29 @@ ChemStock is an Android-based inventory system for **A and Aimee Laboratories (C
 </details>
 
 <details>
-<summary><b>View project tech stack</b></summary>
+<summary><b>[ DECLASSIFY ] Operation stack</b></summary>
 <br/>
 
-React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenStreetMap · SQLite (planned for offline sync)
+<p>
+  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-000000?style=flat-square&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-000000?style=flat-square&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite_(planned)-000000?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
 
 </details>
 
 <p>
-  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/View_Repository-chemstock--app-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-chemstock--app-E10600?style=for-the-badge&logo=github&labelColor=000000" /></a>
 </p>
 
 ---
 
-## Tech Stack
+## `// FILE 04` ARSENAL
 
 ### Languages, Frameworks, Databases & Tools
 
@@ -131,7 +151,7 @@ React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenSt
 
 ---
 
-## Currently Learning
+## `// FILE 05` TRAINING IN PROGRESS
 
 <table align="left">
   <tr>
@@ -150,17 +170,17 @@ React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenSt
 
 ---
 
-## GitHub Activity
+## `// FILE 06` ACTIVITY LOG
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&border_radius=10" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=melody-sheep&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=E10600&text_color=C9D1D9&ring_color=E10600&border_color=2A2A2A&border_radius=0&custom_title=ACTIVITY%20REPORT" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=6&bg_color=000000&title_color=FFFFFF&text_color=C9D1D9&border_color=2A2A2A&border_radius=0&custom_title=LANGUAGE%20INTEL" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=melody-sheep&background=000000&border=2A2A2A&border_radius=0&stroke=2A2A2A&ring=E10600&fire=E10600&currStreakNum=FFFFFF&currStreakLabel=E10600&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="32%" />
 </p>
 
 ---
 
-## Connect With Me
+## `// FILE 07` SECURE CHANNELS
 
 <table align="left">
   <tr>
@@ -173,3 +193,7 @@ React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenSt
 <br clear="left"/>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=%3E+END+OF+FILE+%2F%2F+CONNECTION+TERMINATED" alt="End of file" />
+</p>
