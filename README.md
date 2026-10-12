@@ -2,50 +2,94 @@
   <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
 </p>
 
-**3rd-Year BSIT Student | Database Track | Database Track | Learning Mobile and Full-Stack Development**
+<h1 align="center">Alther Adrian Liga</h1>
 
-I am a passionate developer and database enthusiast currently pursuing a Bachelor's in Information Technology at the **University of Science and Technology of Southern Philippines**. I enjoy writing clean code and building efficient systems.
+<p align="center">
+  <a href="https://github.com/melody-sheep">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Database-Focused+Developer;Mobile+and+Full-Stack+Development;Building+ChemStock+with+React+Native+%2B+Supabase" alt="Typing intro" />
+  </a>
+</p>
 
-🔭 **Currently Working On:** [chemstock-app](https://github.com/melody-sheep/chemstock-app), a QR-enabled mobile inventory system for Cospachem Products.
-
-🌱 **Learning:** React Native, Expo, SQLite, and Mobile-First Database Optimization.
-
-🎯 **Goal:** Become a proficient database administrator and full-stack developer.
-
-📫 **Reach Me:** [altheradrian@gmail.com](mailto:altheradrian@gmail.com) | 0962 694 8128 | Philippines
-
-<div>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
-</div>
+  <a href="https://github.com/melody-sheep?tab=followers"><img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&style=flat-square&color=58a6ff" /></a>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Featured-ChemStock-58a6ff?style=flat-square" /></a>
+</p>
 
 ---
 
-# 🚀 Featured Project: ChemStock
+## About Me
 
-### **QR-Enabled Mobile Inventory Management System**
+I am a developer with a strong focus on databases, building systems that are clean, efficient, and easy to maintain. I enjoy taking a real-world process, modeling it properly at the data layer, and turning it into an application people can rely on every day.
 
-*Capstone project · in development · pilot planned for late 2026*
+### What I Bring
 
-ChemStock is an Android-based mobile inventory system for **A and Aimee Laboratories (Cospachem Products)**. It replaces paper-based stock handling with one digital system that records how stock moves between the branch warehouse, sales reps, and collectors, and who handled it, where, and when.
+| Strength | What It Means in Practice |
+|---|---|
+| **Database Design** | Structuring relational schemas in PostgreSQL and Supabase with clear relationships, constraints, and room to scale |
+| **Mobile Development** | Building Android apps with React Native and Expo, including offline-ready data handling with SQLite |
+| **Full-Stack Development** | Connecting front ends to back ends through Express.js APIs and modern frameworks like React and Next.js |
+| **Clean, Maintainable Code** | Writing readable code that teammates can pick up, review, and extend without friction |
+| **Design to Delivery** | Moving from Figma prototypes to working screens, and collaborating through Git and GitHub |
 
-**Key Features:**
-- 📱 **Mobile Inventory Management:** Receiving, releasing, and returning stock from one app.
-- 🔍 **QR-Based Tracking:** Scannable QR codes for each product batch.
-- 📍 **Geo-Tagged Chain of Custody:** GPS coordinates captured at each release and receipt.
-- 📸 **Photo Documentation:** Timestamped photo proof for every handover.
-- 🚚 **Delivery Tracking:** Collector checkpoints and live online status for each delivery.
-- 🏬 **Multi-Branch Support:** One manager or rep can cover more than one branch.
-- ⚠️ **Discrepancy Alerts:** Flags differences between released and reported stock.
-
-**Roles:** Super Admin (activation keys) · Branch Manager · Sales Rep · Collector
-
-**Tech Stack:** React Native • Expo • Supabase • PostgreSQL • Express.js • Leaflet / OpenStreetMap • SQLite (planned for offline sync)
-
-[🔗 View Repository](https://github.com/melody-sheep/chemstock-app)
+**Currently working on:** [ChemStock](https://github.com/melody-sheep/chemstock-app), a QR-enabled mobile inventory system
+**Currently learning:** React Native, Expo, SQLite, and mobile-first database optimization
+**Goal:** Grow into a proficient database administrator and full-stack developer
 
 ---
 
-# 🛠️ Tech Stack
+## Featured Project: ChemStock
+
+### QR-Enabled Mobile Inventory Management System
+
+*In development · pilot planned for late 2026*
+
+ChemStock is an Android-based inventory system for **A and Aimee Laboratories (Cospachem Products)**. It replaces paper-based stock handling with a single digital system that records how stock moves between the branch warehouse, sales reps, and collectors, along with who handled it, where, and when.
+
+<details>
+<summary><b>View key features</b></summary>
+<br/>
+
+| Feature | Description |
+|---|---|
+| **Mobile Inventory Management** | Receive, release, and return stock from one app |
+| **QR-Based Tracking** | Scannable QR codes for every product batch |
+| **Geo-Tagged Chain of Custody** | GPS coordinates captured at each release and receipt |
+| **Photo Documentation** | Timestamped photo proof for every handover |
+| **Delivery Tracking** | Collector checkpoints and live online status per delivery |
+| **Multi-Branch Support** | One manager or rep can cover more than one branch |
+| **Discrepancy Alerts** | Flags differences between released and reported stock |
+
+</details>
+
+<details>
+<summary><b>View user roles</b></summary>
+<br/>
+
+| Role | Responsibility |
+|---|---|
+| **Super Admin** | Issues activation keys and oversees the system |
+| **Branch Manager** | Manages branch stock and releases |
+| **Sales Rep** | Receives and reports stock in the field |
+| **Collector** | Handles deliveries and collection checkpoints |
+
+</details>
+
+<details>
+<summary><b>View project tech stack</b></summary>
+<br/>
+
+React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenStreetMap · SQLite (planned for offline sync)
+
+</details>
+
+<p>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/View_Repository-chemstock--app-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## Tech Stack
 
 ### Languages, Frameworks, Databases & Tools
 
@@ -86,7 +130,7 @@ ChemStock is an Android-based mobile inventory system for **A and Aimee Laborato
 
 ---
 
-# 🎯 Currently Learning
+## Currently Learning
 
 <table align="left">
   <tr>
@@ -105,7 +149,20 @@ ChemStock is an Android-based mobile inventory system for **A and Aimee Laborato
 
 ---
 
-# 📫 Connect With Me
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&hide_border=true&title_color=58a6ff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=melody-sheep&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+---
+
+## Connect With Me
 
 <table align="left">
   <tr>
