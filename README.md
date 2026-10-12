@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=melody-sheep&label=Profile%20Views&color=58a6ff&style=flat-square" />
   <a href="https://github.com/melody-sheep?tab=followers"><img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&style=flat-square&color=58a6ff" /></a>
   <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Featured-ChemStock-58a6ff?style=flat-square" /></a>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://tokei.rs/b1/github/melody-sheep/chemstock-app?category=code&label=Lines%20of%20Code&style=flat-square&color=58a6ff" /></a>
 </p>
 
 ---
@@ -152,12 +153,9 @@ React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenSt
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&hide_border=true&title_color=58a6ff" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=melody-sheep&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&border_radius=10" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=melody-sheep&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" width="32%" />
 </p>
 
 ---
@@ -167,7 +165,7 @@ React Native · Expo · Supabase · PostgreSQL · Express.js · Leaflet / OpenSt
 <table align="left">
   <tr>
     <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a> <br/>LinkedIn</br></td>
-    <td><a href="mailto:altheradrian@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a> <br/>Gmail</br></td>
+    <td><a href="mailto:altherliga@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a> <br/>Gmail</br></td>
     <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a> <br/>GitHub</br></td>
   </tr>
 </table>
