@@ -1,199 +1,201 @@
 <p align="center">
-  <img src="./new_banner.png" alt="Alther Adrian Liga Banner" width="100%" />
+  <img src="./banner.svg" alt="Developer banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASSIFIED-DEVELOPER_DOSSIER-E10600?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-E10600?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CLEARANCE-TOP_SECRET-FFFFFF?style=for-the-badge&labelColor=E10600&color=000000" />
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-E10600?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&height=40&lines=%3E+INITIALIZING+SECURE+CONNECTION...;%3E+SUBJECT%3A+ALTHER+ADRIAN+LIGA;%3E+ROLE%3A+DATABASE-FOCUSED+DEVELOPER;%3E+SPECIALTY%3A+MOBILE+AND+FULL-STACK+SYSTEMS;%3E+ACTIVE+OPERATION%3A+CHEMSTOCK" alt="Terminal intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=760&height=40&lines=OPENING+FILE...;IDENTITY%3A+REDACTED;FOCUS%3A+DATABASES+AND+MOBILE+APPS;CURRENT+PROJECT%3A+CHEMSTOCK" alt="Intro" />
 </p>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=melody-sheep&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%23E10600&style=flat-square" />
   <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codetabs.com%2Fv1%2Floc%3Fgithub%3Dmelody-sheep%2Fchemstock-app&query=%24%5B-1%3A%5D.linesOfCode&label=LINES%20OF%20CODE&labelColor=000000&color=E10600&style=flat-square" /></a>
   <a href="https://github.com/melody-sheep?tab=followers"><img src="https://img.shields.io/github/followers/melody-sheep?label=FOLLOWERS&labelColor=000000&color=E10600&style=flat-square" /></a>
-  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/ACTIVE_OPERATION-CHEMSTOCK-E10600?style=flat-square&labelColor=000000" /></a>
 </p>
 
 ---
 
-## `// FILE 01` SUBJECT PROFILE
+<img src="https://img.shields.io/badge/FILE_01-PROFILE-E10600?style=for-the-badge&labelColor=000000" />
 
 ```
-SUBJECT        : ALTHER ADRIAN LIGA
-DESIGNATION    : DATABASE-FOCUSED DEVELOPER
-SPECIALTY      : MOBILE  /  FULL-STACK  /  DATA SYSTEMS
-CURRENT OP     : CHEMSTOCK  -  QR-ENABLED INVENTORY SYSTEM
-OBJECTIVE      : DATABASE ADMINISTRATOR  +  FULL-STACK DEVELOPER
-STATUS         : ACTIVE  -  OPEN TO COLLABORATION
+┌──────────────────────────────────────────────────────┐
+│  NAME        ████████████████  [ WITHHELD ]          │
+│  ROLE        Developer focused on databases          │
+│  WORKS ON    Mobile apps, full-stack apps, data      │
+│  PROJECT     ChemStock – inventory app with QR codes │
+│  GOAL        Database administrator and developer    │
+│  STATUS      Active, open to working together        │
+└──────────────────────────────────────────────────────┘
 ```
 
-I build systems that are clean, efficient, and easy to maintain. My approach starts at the data layer: model the real-world process correctly, then build an application people can rely on every day.
+I build apps that are simple, reliable, and easy to keep up. I start by getting the data right, so the app works the way people actually do their jobs.
 
 ---
 
-## `// FILE 02` CAPABILITIES
+<img src="https://img.shields.io/badge/FILE_02-WHAT_I_DO-E10600?style=for-the-badge&labelColor=000000" />
 
-| Capability | Field Application |
+| Skill | What it means |
 |:---|:---|
-| **Database Design** | Relational schemas in PostgreSQL and Supabase with clear relationships, constraints, and room to scale |
-| **Mobile Development** | Android apps with React Native and Expo, including offline-ready data handling with SQLite |
-| **Full-Stack Development** | Express.js APIs connected to modern front ends built with React and Next.js |
-| **Clean, Maintainable Code** | Readable code that teammates can review and extend without friction |
-| **Design to Delivery** | From Figma prototypes to working screens, managed through Git and GitHub |
+| **Database Design** | Organized, well-linked databases in PostgreSQL and Supabase that can grow |
+| **Mobile Apps** | Android apps built with React Native and Expo that can also work offline |
+| **Full-Stack Apps** | Back ends with Express.js connected to front ends in React and Next.js |
+| **Clean Code** | Code that teammates can read, check, and build on easily |
+| **Design to Finished App** | From Figma designs to working screens, tracked with Git and GitHub |
 
 ---
 
-## `// FILE 03` ACTIVE OPERATION: CHEMSTOCK
+<img src="https://img.shields.io/badge/FILE_03-CURRENT_PROJECT-E10600?style=for-the-badge&labelColor=000000" />
 
 ```
-OPERATION      : CHEMSTOCK
-TYPE           : QR-ENABLED MOBILE INVENTORY MANAGEMENT SYSTEM
-CLIENT         : A AND AIMEE LABORATORIES (COSPACHEM PRODUCTS)
-PLATFORM       : ANDROID
-STATUS         : IN DEVELOPMENT  -  PILOT PLANNED LATE 2026
+┌──────────────────────────────────────────────────────┐
+│  PROJECT     ChemStock                               │
+│  WHAT IT IS  Mobile inventory app using QR codes     │
+│  BUILT FOR   A chemical products distributor         │
+│  RUNS ON     Android                                 │
+│  STATUS      Being built – test run planned late 2026│
+└──────────────────────────────────────────────────────┘
 ```
 
-ChemStock replaces paper-based stock handling with a single digital system that records how stock moves between the branch warehouse, sales reps, and collectors, along with who handled it, where, and when.
+ChemStock replaces paper records with one app that tracks stock as it moves from the warehouse to sales reps and collectors — who handled it, where, and when.
 
 <details>
-<summary><b>[ DECLASSIFY ] Key features</b></summary>
+<summary><b>▶ OPEN: Main features</b></summary>
 <br/>
 
-| Feature | Description |
+| Feature | What it does |
 |:---|:---|
-| **Mobile Inventory Management** | Receive, release, and return stock from one app |
-| **QR-Based Tracking** | Scannable QR codes for every product batch |
-| **Geo-Tagged Chain of Custody** | GPS coordinates captured at each release and receipt |
-| **Photo Documentation** | Timestamped photo proof for every handover |
-| **Delivery Tracking** | Collector checkpoints and live online status per delivery |
-| **Multi-Branch Support** | One manager or rep can cover more than one branch |
-| **Discrepancy Alerts** | Flags differences between released and reported stock |
+| **Inventory on Mobile** | Receive, release, and return stock in one app |
+| **QR Tracking** | Every product batch gets a QR code to scan |
+| **Location Records** | Saves the location every time stock changes hands |
+| **Photo Proof** | Takes a dated photo at every handover |
+| **Delivery Tracking** | Shows collector stops and whether they're online |
+| **Multiple Branches** | One manager or rep can handle more than one branch |
+| **Mismatch Alerts** | Warns when released and reported stock don't match |
 
 </details>
 
 <details>
-<summary><b>[ DECLASSIFY ] Access levels</b></summary>
+<summary><b>▶ OPEN: User roles</b></summary>
 <br/>
 
-| Clearance | Responsibility |
+| Role | What they do |
 |:---|:---|
-| **Super Admin** | Issues activation keys and oversees the system |
-| **Branch Manager** | Manages branch stock and releases |
+| **Super Admin** | Gives out access keys and oversees everything |
+| **Branch Manager** | Handles branch stock and releases |
 | **Sales Rep** | Receives and reports stock in the field |
-| **Collector** | Handles deliveries and collection checkpoints |
+| **Collector** | Makes deliveries and collection stops |
 
 </details>
 
 <details>
-<summary><b>[ DECLASSIFY ] Operation stack</b></summary>
+<summary><b>▶ OPEN: Tools used</b></summary>
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-000000?style=flat-square&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-000000?style=flat-square&logo=openstreetmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite_(planned)-000000?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Leaflet-000000?style=for-the-badge&logo=leaflet&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-000000?style=for-the-badge&logo=openstreetmap&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/SQLite_(planned)-000000?style=for-the-badge&logo=sqlite&logoColor=E10600" />
 </p>
 
 </details>
 
 <p>
-  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-chemstock--app-E10600?style=for-the-badge&logo=github&labelColor=000000" /></a>
+  <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/VIEW_PROJECT-chemstock--app-E10600?style=for-the-badge&logo=github&labelColor=000000" /></a>
 </p>
 
 ---
 
-## `// FILE 04` ARSENAL
+<img src="https://img.shields.io/badge/FILE_04-TOOLS_I_USE-E10600?style=for-the-badge&labelColor=000000" />
 
-### Languages, Frameworks, Databases & Tools
+**Languages**
 
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" /> <br/>HTML5</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" /> <br/>CSS3</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" /> <br/>JavaScript</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React JS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /> <br/>Node.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" style="background-color: #000000; border-radius: 8px; padding: 8px;" /> <br/>Express.js</br></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" /> <br/>Next.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /> <br/>Python</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" /> <br/>Java</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" /> <br/>C</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" /> <br/>C++</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</br></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" /> <br/>Git</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" /> <br/>Figma</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" /> <br/>VS Code</br></td>
-    <td><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /> <br/>GitHub</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" height="64" /> <br/>Android</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="64" height="64" /> <br/>Firebase</br></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="64" height="64" /> <br/>Slack</br></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=E10600" />
+</p>
 
-<br clear="left"/>
+**Frameworks**
 
----
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=E10600" />
+</p>
 
-## `// FILE 05` TRAINING IN PROGRESS
+**Databases**
 
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" /> <br/>React Native</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" /> <br/>TypeScript</br></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" /> <br/>Tailwind CSS</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" /> <br/>SQLite</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" /> <br/>PostgreSQL</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" style="background-color: #000000; border-radius: 8px; padding: 8px;" /> <br/>Express.js</br></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" height="64" /> <br/>Supabase</br></td>
-    <td><img src="https://img.icons8.com/color/64/expo.png" width="64" height="64" /> <br/>Expo</br></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=E10600" />
+</p>
 
-<br clear="left"/>
+**Other Tools**
 
----
-
-## `// FILE 06` ACTIVITY LOG
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=E10600&text_color=C9D1D9&ring_color=E10600&border_color=2A2A2A&border_radius=0&custom_title=ACTIVITY%20REPORT" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=6&bg_color=000000&title_color=FFFFFF&text_color=C9D1D9&border_color=2A2A2A&border_radius=0&custom_title=LANGUAGE%20INTEL" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=melody-sheep&background=000000&border=2A2A2A&border_radius=0&stroke=2A2A2A&ring=E10600&fire=E10600&currStreakNum=FFFFFF&currStreakLabel=E10600&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="32%" />
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=E10600" />
 </p>
 
 ---
 
-## `// FILE 07` SECURE CHANNELS
+<img src="https://img.shields.io/badge/FILE_05-CURRENTLY_LEARNING-E10600?style=for-the-badge&labelColor=000000" />
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/alther-liga" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64" height="64" /></a> <br/>LinkedIn</br></td>
-    <td><a href="mailto:altherliga@gmail.com" target="_blank"><img src="https://img.icons8.com/color/64/gmail-new.png" width="64" height="64" /></a> <br/>Gmail</br></td>
-    <td><a href="https://github.com/melody-sheep" target="_blank"><img src="https://img.icons8.com/fluent/64/github.png" width="64" height="64" /></a> <br/>GitHub</br></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-E10600?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-E10600?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-E10600?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQLite-E10600?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E10600?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Express.js-E10600?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Supabase-E10600?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Expo-E10600?style=for-the-badge&logo=expo&logoColor=FFFFFF" />
+</p>
 
-<br clear="left"/>
+---
+
+<img src="https://img.shields.io/badge/FILE_06-GITHUB_ACTIVITY-E10600?style=for-the-badge&labelColor=000000" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_rank=false&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=FFFFFF&ring_color=E10600&border_color=FFFFFF&border_radius=0&custom_title=ACTIVITY" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=6&bg_color=000000&title_color=E10600&text_color=FFFFFF&border_color=FFFFFF&border_radius=0&custom_title=TOP%20LANGUAGES" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=melody-sheep&background=000000&border=FFFFFF&border_radius=0&stroke=FFFFFF&ring=E10600&fire=E10600&currStreakNum=FFFFFF&currStreakLabel=E10600&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="32%" />
+</p>
+
+---
+
+<img src="https://img.shields.io/badge/FILE_07-CONTACT-E10600?style=for-the-badge&labelColor=000000" />
+
+<p>
+  <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E10600" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=%3E+END+OF+FILE+%2F%2F+CONNECTION+TERMINATED" alt="End of file" />
+  <img src="https://img.shields.io/badge/END_OF_FILE-E10600?style=for-the-badge" />
 </p>
