@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Developer banner" width="100%" />
+  <img src="./banner-new-1.svg" alt="melody-sheep banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=760&height=40&lines=OPENING+FILE...;IDENTITY%3A+REDACTED;FOCUS%3A+DATABASES+AND+MOBILE+APPS;CURRENT+PROJECT%3A+CHEMSTOCK" alt="Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=760&height=40&lines=OPENING+FILE...;USER%3A+MELODY-SHEEP;FOCUS%3A+DATABASES%2C+MOBILE+AND+AI;CURRENT+PROJECT%3A+CHEMSTOCK" alt="Intro" />
 </p>
 
 <p align="center">
@@ -27,13 +27,14 @@
 │  NAME        ████████████████  [ WITHHELD ]          │
 │  ROLE        Developer focused on databases          │
 │  WORKS ON    Mobile apps, full-stack apps, data      │
+│  EXPLORING   AI development                          │
 │  PROJECT     ChemStock – inventory app with QR codes │
 │  GOAL        Database administrator and developer    │
 │  STATUS      Active, open to working together        │
 └──────────────────────────────────────────────────────┘
 ```
 
-I build apps that are simple, reliable, and easy to keep up. I start by getting the data right, so the app works the way people actually do their jobs.
+I build apps that are simple, reliable, and easy to keep up. I start by getting the data right, so the app works the way people actually do their jobs. Lately I've been getting into AI development, learning how to build smarter features on top of good data.
 
 ---
 
@@ -45,6 +46,7 @@ I build apps that are simple, reliable, and easy to keep up. I start by getting 
 | **Mobile Apps** | Android apps built with React Native and Expo that can also work offline |
 | **Full-Stack Apps** | Back ends with Express.js connected to front ends in React and Next.js |
 | **Clean Code** | Code that teammates can read, check, and build on easily |
+| **AI Development** | Exploring how to add AI features to real apps, from smart search to automation |
 | **Design to Finished App** | From Figma designs to working screens, tracked with Git and GitHub |
 
 ---
@@ -174,6 +176,7 @@ ChemStock replaces paper records with one app that tracks stock as it moves from
   <img src="https://img.shields.io/badge/Express.js-E10600?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Supabase-E10600?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Expo-E10600?style=for-the-badge&logo=expo&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AI_Development-E10600?style=for-the-badge" />
 </p>
 
 ---
