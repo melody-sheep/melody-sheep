@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-new-2.svg" alt="melody-sheep banner" width="100%" />
+  <img src="./new_banner.png" alt="melody-sheep banner" width="100%" />
 </p>
 
 <p align="center">
