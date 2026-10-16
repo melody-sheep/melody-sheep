@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#000000"/>
+  <rect x="10" y="10" width="1180" height="280" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="10" y="10" width="1180" height="36" fill="#E10600"/>
+  <text x="30" y="34" font-family="Courier New, monospace" font-size="18" font-weight="bold" fill="#FFFFFF" letter-spacing="4">TOP SECRET // DEVELOPER FILE</text>
+  <text x="1170" y="34" text-anchor="end" font-family="Courier New, monospace" font-size="18" font-weight="bold" fill="#FFFFFF" letter-spacing="4">FILE NO. 0426</text>
+
+  <!-- username -->
+  <text x="40" y="130" font-family="Arial Black, Arial, sans-serif" font-size="58" font-weight="900" fill="#FFFFFF" letter-spacing="2">MELODY-SHEEP</text>
+  <rect x="40" y="148" width="320" height="40" fill="#FFFFFF"/>
+  <text x="50" y="177" font-family="Courier New, monospace" font-size="22" font-weight="bold" fill="#000000" letter-spacing="3">DATABASE DEVELOPER</text>
+  <text x="40" y="232" font-family="Courier New, monospace" font-size="20" fill="#FFFFFF" letter-spacing="3">DATABASES  /  MOBILE APPS  /  FULL-STACK</text>
+
+  <!-- stamp -->
+  <g transform="rotate(-10 730 210)">
+    <rect x="610" y="180" width="240" height="60" fill="none" stroke="#E10600" stroke-width="5"/>
+    <text x="730" y="224" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="30" font-weight="900" fill="#E10600" letter-spacing="4">CLASSIFIED</text>
+  </g>
+
+  <!-- sheep in target circle -->
+  <g transform="translate(1030 158) scale(0.9)">
+    <circle r="100" fill="none" stroke="#E10600" stroke-width="2" stroke-dasharray="6 6"/>
+    <circle r="88" fill="#111111" stroke="#FFFFFF" stroke-width="3"/>
+    <!-- crosshair ticks -->
+    <line x1="0" y1="-108" x2="0" y2="-94" stroke="#E10600" stroke-width="3"/>
+    <line x1="0" y1="94" x2="0" y2="108" stroke="#E10600" stroke-width="3"/>
+    <line x1="-108" y1="0" x2="-94" y2="0" stroke="#E10600" stroke-width="3"/>
+    <line x1="94" y1="0" x2="108" y2="0" stroke="#E10600" stroke-width="3"/>
+
+    <!-- ears -->
+    <ellipse cx="-42" cy="0" rx="22" ry="10" transform="rotate(-20 -42 0)" fill="#FFFFFF"/>
+    <ellipse cx="42" cy="0" rx="22" ry="10" transform="rotate(20 42 0)" fill="#FFFFFF"/>
+    <!-- wool -->
+    <g fill="#FFFFFF">
+      <circle cx="-28" cy="-24" r="16"/>
+      <circle cx="-12" cy="-38" r="17"/>
+      <circle cx="8" cy="-40" r="17"/>
+      <circle cx="26" cy="-28" r="16"/>
+      <circle cx="0" cy="-22" r="18"/>
+      <circle cx="-32" cy="-8" r="11"/>
+      <circle cx="32" cy="-8" r="11"/>
+    </g>
+    <!-- face -->
+    <path d="M -24 -8 Q -26 30 -12 46 Q 0 56 12 46 Q 26 30 24 -8 Q 0 -16 -24 -8 Z" fill="#FFFFFF" stroke="#111111" stroke-width="2"/>
+    <!-- eyes -->
+    <ellipse cx="-11" cy="10" rx="5" ry="6" fill="#111111"/>
+    <ellipse cx="11" cy="10" rx="5" ry="6" fill="#111111"/>
+    <!-- nose -->
+    <path d="M -7 33 Q 0 40 7 33" fill="none" stroke="#111111" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="-4" cy="28" r="2.5" fill="#111111"/>
+    <circle cx="4" cy="28" r="2.5" fill="#111111"/>
+  </g>
+
+  <rect x="10" y="270" width="1180" height="20" fill="#E10600"/>
+</svg>
