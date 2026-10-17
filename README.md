@@ -15,146 +15,108 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://api.iconify.design/ph/user-circle-bold.svg?color=%233B82F6" width="26" align="top" /> About Me
 
 I build apps that are simple, reliable, and easy to keep up. I start by getting the data right, so the app works the way people actually do their jobs. Lately I've been getting into **AI development**, learning how to add smarter features on top of good data.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔵 What I focus on</h4>
-      Database design, mobile apps, and full-stack web apps
+      <img src="https://api.iconify.design/ph/target-bold.svg?color=%233B82F6" width="22" align="left" />&nbsp;<b>What I focus on</b><br/>
+      <sub>Database design, mobile apps, and full-stack web apps</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🟣 What I'm exploring</h4>
-      AI development and how to use it in real apps
+      <img src="https://api.iconify.design/ph/brain-bold.svg?color=%23A855F7" width="22" align="left" />&nbsp;<b>What I'm exploring</b><br/>
+      <sub>AI development and how to use it in real apps</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🟢 What I'm building</h4>
-      ChemStock, an inventory app that tracks stock with QR codes
+      <img src="https://api.iconify.design/ph/hammer-bold.svg?color=%2322C55E" width="22" align="left" />&nbsp;<b>What I'm building</b><br/>
+      <sub>ChemStock, an inventory app that tracks stock with QR codes</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🟡 Where I'm headed</h4>
-      Database administrator and full-stack developer
+      <img src="https://api.iconify.design/ph/compass-bold.svg?color=%23FACC15" width="22" align="left" />&nbsp;<b>Where I'm headed</b><br/>
+      <sub>Database administrator and full-stack developer</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ What I Do
+## <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%2322C55E" width="26" align="top" /> What I Do
 
 <table>
   <tr>
-    <td align="center" width="20%"><h3>🗄️</h3><b>Database Design</b><br/><sub>Organized, well-linked databases in PostgreSQL and Supabase</sub></td>
-    <td align="center" width="20%"><h3>📱</h3><b>Mobile Apps</b><br/><sub>Android apps with React Native and Expo that work offline</sub></td>
-    <td align="center" width="20%"><h3>🌐</h3><b>Full-Stack Apps</b><br/><sub>Express.js back ends with React and Next.js front ends</sub></td>
-    <td align="center" width="20%"><h3>🤖</h3><b>AI Development</b><br/><sub>Adding AI features like smart search and automation</sub></td>
-    <td align="center" width="20%"><h3>🎨</h3><b>Design to App</b><br/><sub>From Figma designs to working screens</sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/ph/database-bold.svg?color=%233B82F6" width="36" /><br/><b>Database Design</b><br/><sub>Organized, well-linked databases in PostgreSQL and Supabase</sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2322C55E" width="36" /><br/><b>Mobile Apps</b><br/><sub>Android apps with React Native and Expo that work offline</sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/ph/stack-bold.svg?color=%23FACC15" width="36" /><br/><b>Full-Stack Apps</b><br/><sub>Express.js back ends with React and Next.js front ends</sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%23A855F7" width="36" /><br/><b>AI Development</b><br/><sub>Adding AI features like smart search and automation</sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/ph/pen-nib-bold.svg?color=%23EF4444" width="36" /><br/><b>Design to App</b><br/><sub>From Figma designs to working screens</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+## <img src="https://api.iconify.design/ph/code-bold.svg?color=%23FACC15" width="26" align="top" /> Skills
 
-#### Languages
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" /><br/><sub><b>C</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br/><sub><b>C++</b></sub></td>
+    <th width="40%">I use</th>
+    <th width="30%">I'm learning</th>
+    <th width="30%">Tools I like</th>
   </tr>
-</table>
-
-#### Frameworks & Libraries
-<table>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br/><sub><b>React Native</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/96/expo.png" width="48" height="48" /><br/><sub><b>Expo</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><br/><sub><b>Next.js</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br/><sub><b>Express.js</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br/><sub><b>Tailwind CSS</b></sub></td>
-  </tr>
-</table>
-
-#### Databases
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" /><br/><sub><b>Supabase</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" /><br/><sub><b>SQLite</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /><br/><sub><b>Firebase</b></sub></td>
-  </tr>
-</table>
-
-#### Tools
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br/><sub><b>Figma</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" /><br/><sub><b>Android</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" /><br/><sub><b>Slack</b></sub></td>
-  </tr>
-</table>
-
-#### 📚 Currently Learning
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br/><sub><b>React Native</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" /><br/><sub><b>Supabase</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br/><sub><b>Express.js</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ai" width="48" height="48" /><br/><sub><b>AI Development</b></sub></td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp,react,nextjs,nodejs,express,postgres,supabase,sqlite,firebase&perline=4" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,postgres,supabase,express&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AI_Development-A855F7?style=for-the-badge" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Current Project: ChemStock
+## <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23EF4444" width="26" align="top" /> Current Project: ChemStock
 
 ChemStock replaces paper records with one Android app that tracks stock as it moves from the warehouse to sales reps and collectors — who handled it, where, and when. Test run planned for late 2026.
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>📦</h3><b>Inventory on Mobile</b><br/><sub>Receive, release, and return stock in one app</sub></td>
-    <td align="center" width="25%"><h3>🔳</h3><b>QR Tracking</b><br/><sub>Every product batch gets a QR code to scan</sub></td>
-    <td align="center" width="25%"><h3>📍</h3><b>Location Records</b><br/><sub>Saves the location each time stock changes hands</sub></td>
-    <td align="center" width="25%"><h3>📸</h3><b>Photo Proof</b><br/><sub>A dated photo at every handover</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/package-bold.svg?color=%233B82F6" width="32" /><br/><b>Inventory on Mobile</b><br/><sub>Receive, release, and return stock in one app</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/qr-code-bold.svg?color=%2322C55E" width="32" /><br/><b>QR Tracking</b><br/><sub>Every product batch gets a QR code to scan</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/map-pin-bold.svg?color=%23EF4444" width="32" /><br/><b>Location Records</b><br/><sub>Saves the location each time stock changes hands</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/camera-bold.svg?color=%23FACC15" width="32" /><br/><b>Photo Proof</b><br/><sub>A dated photo at every handover</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>🚚</h3><b>Delivery Tracking</b><br/><sub>Collector stops and online status</sub></td>
-    <td align="center" width="25%"><h3>🏢</h3><b>Multiple Branches</b><br/><sub>One manager or rep can handle several branches</sub></td>
-    <td align="center" width="25%"><h3>⚠️</h3><b>Mismatch Alerts</b><br/><sub>Warns when released and reported stock differ</sub></td>
-    <td align="center" width="25%"><h3>👥</h3><b>4 User Roles</b><br/><sub>Super Admin, Branch Manager, Sales Rep, Collector</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/truck-bold.svg?color=%23A855F7" width="32" /><br/><b>Delivery Tracking</b><br/><sub>Collector stops and online status</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/buildings-bold.svg?color=%2306B6D4" width="32" /><br/><b>Multiple Branches</b><br/><sub>One manager or rep can handle several branches</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/warning-bold.svg?color=%23F97316" width="32" /><br/><b>Mismatch Alerts</b><br/><sub>Warns when released and reported stock differ</sub></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/ph/users-three-bold.svg?color=%23EC4899" width="32" /><br/><b>4 User Roles</b><br/><sub>Super Admin, Branch Manager, Sales Rep, Collector</sub></td>
   </tr>
 </table>
 
-**Built with**
-
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br/><sub><b>React Native</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/96/expo.png" width="48" height="48" /><br/><sub><b>Expo</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" /><br/><sub><b>Supabase</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br/><sub><b>Express.js</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/leaflet/199900" width="48" height="48" /><br/><sub><b>Leaflet</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="48" height="48" /><br/><sub><b>OpenStreetMap</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" /><br/><sub><b>SQLite (soon)</b></sub></td>
+    <th>Built with</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+    </td>
   </tr>
 </table>
 
@@ -166,7 +128,7 @@ ChemStock replaces paper records with one Android app that tracks stock as it mo
 
 ---
 
-## 📊 GitHub Activity
+## <img src="https://api.iconify.design/ph/chart-bar-bold.svg?color=%2306B6D4" width="26" align="top" /> GitHub Activity
 
 <table>
   <tr>
@@ -197,23 +159,23 @@ ChemStock replaces paper records with one Android app that tracks stock as it mo
   </tr>
 </table>
 
-#### 🏆 Achievements
+### <img src="https://api.iconify.design/ph/trophy-bold.svg?color=%23FACC15" width="22" align="top" /> Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melody-sheep&theme=darkhub&column=7&margin-w=0&margin-h=0&no-bg=false" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=melody-sheep&theme=darkhub&column=7&margin-w=0&margin-h=0" width="100%" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## <img src="https://api.iconify.design/ph/chat-circle-dots-bold.svg?color=%23EC4899" width="26" align="top" /> Get in Touch
 
 <table>
   <tr>
-    <td align="center" width="140"><a href="https://github.com/melody-sheep"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br/><sub><b>GitHub</b></sub></a></td>
-    <td align="center" width="140"><a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.icons8.com/fluency/96/box.png" width="48" height="48" /><br/><sub><b>ChemStock Repo</b></sub></a></td>
+    <td align="center" width="140"><a href="https://github.com/melody-sheep"><img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%23FFFFFF" width="36" /><br/><sub><b>GitHub</b></sub></a></td>
+    <td align="center" width="140"><a href="https://github.com/melody-sheep/chemstock-app"><img src="https://api.iconify.design/ph/package-bold.svg?color=%233B82F6" width="36" /><br/><sub><b>ChemStock Repo</b></sub></a></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Thanks for stopping by! 🐑</sub>
+  <sub>Thanks for stopping by!</sub>
 </p>
