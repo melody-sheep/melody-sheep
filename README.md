@@ -131,10 +131,6 @@
   Activity
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melody-sheep&bg_color=0D1117&color=C9D1D9&line=06B6D4&point=FACC15&area=true&area_color=06B6D4&title_color=FFFFFF&hide_border=true&custom_title=Contributions%20in%20the%20Last%2031%20Days" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="50%" align="center">
@@ -145,11 +141,12 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melody-sheep&theme=github_dark&utcOffset=8" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melody-sheep&theme=github_dark" width="100%" />
+    <td colspan="2" align="center">
+      <br/>
+      <sub><b>CONTRIBUTIONS THIS YEAR</b></sub>
+      <br/><br/>
+      <img src="https://ghchart.rshah.org/3B82F6/melody-sheep" alt="melody-sheep contribution calendar" width="100%" />
+      <br/><br/>
     </td>
   </tr>
 </table>
