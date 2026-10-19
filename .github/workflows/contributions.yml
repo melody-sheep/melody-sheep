@@ -1,4 +1,4 @@
-name: Contribution calendar
+name: Update contribution graph
 
 on:
   schedule:
@@ -6,7 +6,8 @@ on:
   workflow_dispatch:         # lets you run it by hand from the Actions tab
   push:
     paths:
-      - ".github/**"
+      - "scripts/contributions.js"
+      - ".github/workflows/contributions.yml"
 
 permissions:
   contents: write
@@ -21,15 +22,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Draw contributions.svg
-        run: node .github/scripts/contrib-calendar.mjs
+      - name: Build contributions.svg
+        run: node scripts/contributions.js
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit if changed
+      - name: Commit if it changed
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add contributions.svg
-          git diff --staged --quiet || (git commit -m "Update contribution calendar" && git push)
+          git diff --staged --quiet || git commit -m "Update contribution graph"
+          git push
