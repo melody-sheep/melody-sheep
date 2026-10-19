@@ -142,11 +142,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <br/>
-      <sub><b>CONTRIBUTIONS THIS YEAR</b></sub>
-      <br/><br/>
-      <img src="https://ghchart.rshah.org/3B82F6/melody-sheep" alt="melody-sheep contribution calendar" width="100%" />
-      <br/><br/>
+      <img src="./contributions.svg" alt="melody-sheep contribution calendar" width="100%" />
     </td>
   </tr>
 </table>
