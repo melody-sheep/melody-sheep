@@ -7,6 +7,8 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2322C55E" width="16" /> <b>Mobile &amp; Full-Stack</b>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://api.iconify.design/ph/pen-nib-bold.svg?color=%23EC4899" width="16" /> <b>UI/UX Design</b>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%23A855F7" width="16" /> <b>Exploring AI</b>
 </p>
 
@@ -49,7 +51,7 @@
 <table>
   <tr>
     <td width="170"><img src="https://api.iconify.design/ph/code-bold.svg?color=%233B82F6" width="18" align="top" />&nbsp; <b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,c,cpp" /></td>
   </tr>
   <tr>
     <td><img src="https://api.iconify.design/ph/layout-bold.svg?color=%2322C55E" width="18" align="top" />&nbsp; <b>Front End</b></td>
@@ -57,15 +59,15 @@
   </tr>
   <tr>
     <td><img src="https://api.iconify.design/ph/hard-drives-bold.svg?color=%23FACC15" width="18" align="top" />&nbsp; <b>Back End</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,prisma" /></td>
   </tr>
   <tr>
     <td><img src="https://api.iconify.design/ph/database-bold.svg?color=%23EF4444" width="18" align="top" />&nbsp; <b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,firebase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite,firebase" /></td>
   </tr>
   <tr>
     <td><img src="https://api.iconify.design/ph/toolbox-bold.svg?color=%23A855F7" width="18" align="top" />&nbsp; <b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" /></td>
   </tr>
   <tr>
     <td><img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%2306B6D4" width="18" align="top" />&nbsp; <b>Learning</b></td>
@@ -75,6 +77,40 @@
       <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
       <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>
+  <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23EC4899" width="24" align="top" />
+  UI/UX Design
+</h2>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=figma" width="64" />
+      <br/>
+      <b>Figma</b>
+      <br/>
+      <sub>Where every screen starts</sub>
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        I design apps in Figma before writing any code, so the layout and flow are
+        clear early and the build goes faster. I keep screens simple, consistent,
+        and easy to use for the people who'll actually be using them.
+      </p>
+      <table>
+        <tr>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%233B82F6" width="28" /><br/><b>Research</b><br/><sub>Understand the users and their work</sub></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%2322C55E" width="28" /><br/><b>Wireframe</b><br/><sub>Plan the layout and flow</sub></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/cursor-click-bold.svg?color=%23FACC15" width="28" /><br/><b>Prototype</b><br/><sub>Clickable screens to test</sub></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23A855F7" width="28" /><br/><b>Build</b><br/><sub>Turn designs into working apps</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
