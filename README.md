@@ -16,7 +16,6 @@
 
 <br/>
 
-<!-- Glassmorphism Top Row -->
 <table width="100%" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(239, 68, 68, 0.3);">
   <tr>
     <td width="60%" valign="top" style="padding: 20px;">
@@ -44,7 +43,6 @@
         <p>
           <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
           <br/><br/>
-          <!-- Added Discord & Email -->
           <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
           <a href="mailto:altheradrian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
         </p>
@@ -56,7 +54,6 @@
   </tr>
 </table>
 
-<!-- Red Gradient Divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF4444,50:F97316,100:EC4899&height=2&section=header" width="100%" /></p>
 
 <h2>
@@ -66,7 +63,6 @@
   </font>
 </h2>
 
-<!-- Glassmorphism Tech Stack -->
 <table width="100%" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(239, 68, 68, 0.3); padding: 10px;">
   <tr>
     <td width="170" valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23EF4444" width="18" align="top" alt="" />&nbsp; <b>Languages</b></font></td>
@@ -110,7 +106,6 @@
   </font>
 </h2>
 
-<!-- Glassmorphism UI/UX -->
 <table width="100%" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(236, 72, 153, 0.3);">
   <tr>
     <td width="30%" align="center" valign="middle" style="padding: 20px;">
@@ -151,7 +146,6 @@
   </font>
 </h2>
 
-<!-- Glassmorphism Featured Project -->
 <table width="100%" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(239, 68, 68, 0.3);">
   <tr>
     <td width="65%" valign="top" style="padding: 20px;">
@@ -205,11 +199,16 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=melody-sheep&hide_border=true&background=0D1117&stroke=30363D&ring=EF4444&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub streak" loading="lazy" />
+    <td width="100%" align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=melody-sheep&bg_color=0D1117&color=EF4444&line=F97316&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" loading="lazy" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&custom_title=Most%20Used%20Languages" width="100%" alt="Most used languages" loading="lazy" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melody-sheep&theme=github_dark&utcOffset=8" width="100%" alt="Productive Time" loading="lazy" />
     </td>
   </tr>
   <tr>
@@ -226,5 +225,4 @@
   <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Project-ChemStock-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="ChemStock" /></a>
 </p>
 
-<!-- Updated Footer to Red Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F97316&height=110&section=footer" width="100%" alt="" />
