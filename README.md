@@ -199,16 +199,12 @@
 
 <table width="100%">
   <tr>
-    <td width="100%" align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=melody-sheep&bg_color=0D1117&color=EF4444&line=F97316&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" loading="lazy" />
+    <td width="50%" align="center">
+      <!-- Using herokuapp backup URL for streak stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=melody-sheep&hide_border=true&background=0D1117&stroke=30363D&ring=EF4444&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub streak" loading="lazy" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&custom_title=Most%20Used%20Languages" width="100%" alt="Most used languages" loading="lazy" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melody-sheep&theme=github_dark&utcOffset=8" width="100%" alt="Productive Time" loading="lazy" />
     </td>
   </tr>
   <tr>
