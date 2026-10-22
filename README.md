@@ -3,13 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/ph/database-bold.svg?color=%233B82F6" width="16" alt="" /> <b>Database Developer</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2322C55E" width="16" alt="" /> <b>Mobile &amp; Full-Stack</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/ph/pen-nib-bold.svg?color=%23EC4899" width="16" alt="" /> <b>UI/UX Design</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%23A855F7" width="16" alt="" /> <b>Exploring AI</b>
+  <font face="Consolas, monospace">
+    <img src="https://api.iconify.design/ph/database-bold.svg?color=%233B82F6" width="16" alt="" /> <b>Database Developer</b>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2322C55E" width="16" alt="" /> <b>Mobile &amp; Full-Stack</b>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <img src="https://api.iconify.design/ph/pen-nib-bold.svg?color=%23EC4899" width="16" alt="" /> <b>UI/UX Design</b>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%23A855F7" width="16" alt="" /> <b>Exploring AI</b>
+  </font>
 </p>
 
 <br/>
@@ -17,32 +19,34 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>Hi, I'm melody-sheep</h3>
-      <p>
-        I build apps that are simple, reliable, and easy to keep up. I start with the data,
-        so the app works the way people actually do their jobs. Lately I've been learning
-        <b>AI development</b> and how to add smarter features to real apps.
-      </p>
-      <h4>Right now</h4>
-      <ul>
-        <li><img src="https://api.iconify.design/ph/hammer-bold.svg?color=%2322C55E" width="16" alt="" /> Building <a href="https://github.com/melody-sheep/chemstock-app"><b>ChemStock</b></a>, a QR-based inventory app</li>
-        <li><img src="https://api.iconify.design/ph/book-open-bold.svg?color=%23FACC15" width="16" alt="" /> Learning Vite, shadcn/ui, FastAPI and Vercel</li>
-        <li><img src="https://api.iconify.design/ph/brain-bold.svg?color=%23A855F7" width="16" alt="" /> Building with AI tools like Claude, GitHub Copilot and ChatGPT</li>
-        <li><img src="https://api.iconify.design/ph/compass-bold.svg?color=%23EF4444" width="16" alt="" /> Aiming to be a database administrator and full-stack developer</li>
-        <li><img src="https://api.iconify.design/ph/handshake-bold.svg?color=%2306B6D4" width="16" alt="" /> Open to working together on projects</li>
-      </ul>
+      <font face="Consolas, monospace">
+        <h3>Hi, I'm melody-sheep</h3>
+        <p>
+          I build apps that are simple, reliable, and easy to keep up. I start with the data,
+          so the app works the way people actually do their jobs. Lately I've been learning
+          <b>AI development</b> and how to add smarter features to real apps.
+        </p>
+        <h4>Right now</h4>
+        <ul>
+          <li><img src="https://api.iconify.design/ph/hammer-bold.svg?color=%2322C55E" width="16" alt="" /> Building <a href="https://github.com/melody-sheep/chemstock-app"><b>ChemStock</b></a>, a QR-based inventory app</li>
+          <li><img src="https://api.iconify.design/ph/book-open-bold.svg?color=%23FACC15" width="16" alt="" /> Learning Vite, shadcn/ui, FastAPI and Vercel</li>
+          <li><img src="https://api.iconify.design/ph/brain-bold.svg?color=%23A855F7" width="16" alt="" /> Building with AI tools like Claude, GitHub Copilot and ChatGPT</li>
+          <li><img src="https://api.iconify.design/ph/compass-bold.svg?color=%23EF4444" width="16" alt="" /> Aiming to be a database administrator and full-stack developer</li>
+          <li><img src="https://api.iconify.design/ph/handshake-bold.svg?color=%2306B6D4" width="16" alt="" /> Open to working together on projects</li>
+        </ul>
+      </font>
     </td>
     <td width="45%" valign="top" align="center">
-      <!-- Replaced the broken stats card with reliable connect badges -->
       <br/><br/>
-      <h4>Let's Connect</h4>
-      <p>
-        <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <br/><br/>
-        <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Project-ChemStock-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="ChemStock" /></a>
-      </p>
+      <font face="Consolas, monospace">
+        <h4>Let's Connect</h4>
+        <p>
+          <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+          <br/><br/>
+          <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Project-ChemStock-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="ChemStock" /></a>
+        </p>
+      </font>
       <br/><br/>
-      <!-- Views and Followers remain intact -->
       <img src="https://api.visitorbadge.io/api/visitors?path=melody-sheep&label=Views&labelColor=%23161B22&countColor=%233B82F6&style=flat-square" alt="Profile views" />
       <img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&labelColor=161B22&color=22C55E&style=flat-square" alt="Followers" />
     </td>
@@ -52,33 +56,35 @@
 <hr/>
 
 <h2>
-  <img src="https://api.iconify.design/ph/stack-bold.svg?color=%23FACC15" width="26" align="top" alt="" />
-  Tech Stack
+  <font face="Consolas, monospace">
+    <img src="https://api.iconify.design/ph/stack-bold.svg?color=%23FACC15" width="26" align="top" alt="" />
+    Tech Stack
+  </font>
 </h2>
 
 <table>
   <tr>
-    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/code-bold.svg?color=%233B82F6" width="18" align="top" alt="" />&nbsp; <b>Languages</b></td>
+    <td width="170" valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/code-bold.svg?color=%233B82F6" width="18" align="top" alt="" />&nbsp; <b>Languages</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,c,cpp" alt="Languages" loading="lazy" /></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://api.iconify.design/ph/layout-bold.svg?color=%2322C55E" width="18" align="top" alt="" />&nbsp; <b>Front End</b></td>
+    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/layout-bold.svg?color=%2322C55E" width="18" align="top" alt="" />&nbsp; <b>Front End</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Front end" loading="lazy" />&nbsp;<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo" /></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://api.iconify.design/ph/hard-drives-bold.svg?color=%23FACC15" width="18" align="top" alt="" />&nbsp; <b>Back End</b></td>
+    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/hard-drives-bold.svg?color=%23FACC15" width="18" align="top" alt="" />&nbsp; <b>Back End</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,prisma" alt="Back end" loading="lazy" /></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://api.iconify.design/ph/database-bold.svg?color=%23EF4444" width="18" align="top" alt="" />&nbsp; <b>Databases</b></td>
+    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/database-bold.svg?color=%23EF4444" width="18" align="top" alt="" />&nbsp; <b>Databases</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite,firebase" alt="Databases" loading="lazy" /></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://api.iconify.design/ph/toolbox-bold.svg?color=%23A855F7" width="18" align="top" alt="" />&nbsp; <b>Tools</b></td>
+    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/toolbox-bold.svg?color=%23A855F7" width="18" align="top" alt="" />&nbsp; <b>Tools</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" alt="Tools" loading="lazy" /></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%2306B6D4" width="18" align="top" alt="" />&nbsp; <b>Learning</b></td>
+    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%2306B6D4" width="18" align="top" alt="" />&nbsp; <b>Learning</b></font></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=vite,fastapi,vercel" alt="Learning frameworks" loading="lazy" /><br/>
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
@@ -92,8 +98,10 @@
 <hr/>
 
 <h2>
-  <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23EC4899" width="26" align="top" alt="" />
-  UI/UX Design
+  <font face="Consolas, monospace">
+    <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23EC4899" width="26" align="top" alt="" />
+    UI/UX Design
+  </font>
 </h2>
 
 <table>
@@ -101,22 +109,26 @@
     <td width="30%" align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Figma" loading="lazy" />
       <br/>
-      <b>Figma</b>
-      <br/>
-      <sub>Where every screen starts</sub>
+      <font face="Consolas, monospace">
+        <b>Figma</b>
+        <br/>
+        <sub>Where every screen starts</sub>
+      </font>
     </td>
     <td width="70%" valign="top">
-      <p>
-        I design apps in Figma before writing any code, so the layout and flow are
-        clear early and the build goes faster. I keep screens simple, consistent,
-        and easy to use for the people who'll actually be using them.
-      </p>
+      <font face="Consolas, monospace">
+        <p>
+          I design apps in Figma before writing any code, so the layout and flow are
+          clear early and the build goes faster. I keep screens simple, consistent,
+          and easy to use for the people who'll actually be using them.
+        </p>
+      </font>
       <table>
         <tr>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%233B82F6" width="28" alt="" /><br/><b>Research</b><br/><sub>Understand the users and their work</sub></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%2322C55E" width="28" alt="" /><br/><b>Wireframe</b><br/><sub>Plan the layout and flow</sub></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/cursor-click-bold.svg?color=%23FACC15" width="28" alt="" /><br/><b>Prototype</b><br/><sub>Clickable screens to test</sub></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23A855F7" width="28" alt="" /><br/><b>Build</b><br/><sub>Turn designs into working apps</sub></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%233B82F6" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Research</b><br/><sub>Understand the users and their work</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%2322C55E" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Wireframe</b><br/><sub>Plan the layout and flow</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/cursor-click-bold.svg?color=%23FACC15" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Prototype</b><br/><sub>Clickable screens to test</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23A855F7" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Build</b><br/><sub>Turn designs into working apps</sub></font></td>
         </tr>
       </table>
     </td>
@@ -126,26 +138,30 @@
 <hr/>
 
 <h2>
-  <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23EF4444" width="26" align="top" alt="" />
-  Featured Project
+  <font face="Consolas, monospace">
+    <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23EF4444" width="26" align="top" alt="" />
+    Featured Project
+  </font>
 </h2>
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3><a href="https://github.com/melody-sheep/chemstock-app">ChemStock</a></h3>
-      <p>
-        An Android app that replaces paper records and tracks stock as it moves from the
-        warehouse to sales reps and collectors — who handled it, where, and when.
-      </p>
-      <ul>
-        <li><img src="https://api.iconify.design/ph/qr-code-bold.svg?color=%2322C55E" width="16" alt="" /> QR code on every product batch</li>
-        <li><img src="https://api.iconify.design/ph/map-pin-bold.svg?color=%23EF4444" width="16" alt="" /> Location saved at every handover</li>
-        <li><img src="https://api.iconify.design/ph/camera-bold.svg?color=%23FACC15" width="16" alt="" /> Dated photo proof</li>
-        <li><img src="https://api.iconify.design/ph/truck-bold.svg?color=%23A855F7" width="16" alt="" /> Delivery and collector tracking</li>
-        <li><img src="https://api.iconify.design/ph/warning-bold.svg?color=%23F97316" width="16" alt="" /> Alerts when stock counts don't match</li>
-        <li><img src="https://api.iconify.design/ph/users-three-bold.svg?color=%23EC4899" width="16" alt="" /> 4 user roles across multiple branches</li>
-      </ul>
+      <font face="Consolas, monospace">
+        <h3><a href="https://github.com/melody-sheep/chemstock-app">ChemStock</a></h3>
+        <p>
+          An Android app that replaces paper records and tracks stock as it moves from the
+          warehouse to sales reps and collectors — who handled it, where, and when.
+        </p>
+        <ul>
+          <li><img src="https://api.iconify.design/ph/qr-code-bold.svg?color=%2322C55E" width="16" alt="" /> QR code on every product batch</li>
+          <li><img src="https://api.iconify.design/ph/map-pin-bold.svg?color=%23EF4444" width="16" alt="" /> Location saved at every handover</li>
+          <li><img src="https://api.iconify.design/ph/camera-bold.svg?color=%23FACC15" width="16" alt="" /> Dated photo proof</li>
+          <li><img src="https://api.iconify.design/ph/truck-bold.svg?color=%23A855F7" width="16" alt="" /> Delivery and collector tracking</li>
+          <li><img src="https://api.iconify.design/ph/warning-bold.svg?color=%23F97316" width="16" alt="" /> Alerts when stock counts don't match</li>
+          <li><img src="https://api.iconify.design/ph/users-three-bold.svg?color=%23EC4899" width="16" alt="" /> 4 user roles across multiple branches</li>
+        </ul>
+      </font>
       <p>
         <img src="https://img.shields.io/badge/Status-In_Development-FACC15?style=flat-square&labelColor=161B22" alt="Status: In development" />
         <img src="https://img.shields.io/badge/Test_Run-Late_2026-3B82F6?style=flat-square&labelColor=161B22" alt="Test run: late 2026" />
@@ -153,9 +169,10 @@
       </p>
     </td>
     <td width="45%" valign="top" align="center">
-      <!-- Replaced the broken pin stats card with just the tech stack badges -->
       <br/>
-      <sub><b>BUILT WITH</b></sub>
+      <font face="Consolas, monospace">
+        <sub><b>BUILT WITH</b></sub>
+      </font>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite&perline=3" alt="ChemStock stack" loading="lazy" />
       <br/><br/>
@@ -169,8 +186,10 @@
 <hr/>
 
 <h2>
-  <img src="https://api.iconify.design/ph/chart-line-up-bold.svg?color=%2306B6D4" width="26" align="top" alt="" />
-  Activity
+  <font face="Consolas, monospace">
+    <img src="https://api.iconify.design/ph/chart-line-up-bold.svg?color=%2306B6D4" width="26" align="top" alt="" />
+    Activity
+  </font>
 </h2>
 
 <table>
