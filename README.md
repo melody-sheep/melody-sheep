@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <font face="Consolas, monospace">
         <h3>Hi, I'm melody-sheep</h3>
         <p>
@@ -36,8 +36,8 @@
         </ul>
       </font>
     </td>
-    <td width="45%" valign="top" align="center">
-      <br/><br/>
+    <td width="40%" valign="top" align="center">
+      <br/>
       <font face="Consolas, monospace">
         <h4>Let's Connect</h4>
         <p>
@@ -46,14 +46,15 @@
           <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Project-ChemStock-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="ChemStock" /></a>
         </p>
       </font>
-      <br/><br/>
+      <br/>
       <img src="https://api.visitorbadge.io/api/visitors?path=melody-sheep&label=Views&labelColor=%23161B22&countColor=%233B82F6&style=flat-square" alt="Profile views" />
       <img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&labelColor=161B22&color=22C55E&style=flat-square" alt="Followers" />
     </td>
   </tr>
 </table>
 
-<hr/>
+<!-- UX Improvement: Gradient Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:EC4899&height=2&section=header" width="100%" /></p>
 
 <h2>
   <font face="Consolas, monospace">
@@ -62,7 +63,8 @@
   </font>
 </h2>
 
-<table>
+<!-- UX Improvement: Fixed vertical alignment of icons -->
+<table width="100%">
   <tr>
     <td width="170" valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/code-bold.svg?color=%233B82F6" width="18" align="top" alt="" />&nbsp; <b>Languages</b></font></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,c,cpp" alt="Languages" loading="lazy" /></td>
@@ -95,7 +97,7 @@
   </tr>
 </table>
 
-<hr/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:EC4899&height=2&section=header" width="100%" /></p>
 
 <h2>
   <font face="Consolas, monospace">
@@ -104,7 +106,7 @@
   </font>
 </h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Figma" loading="lazy" />
@@ -123,19 +125,19 @@
           and easy to use for the people who'll actually be using them.
         </p>
       </font>
-      <table>
+      <table width="100%">
         <tr>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%233B82F6" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Research</b><br/><sub>Understand the users and their work</sub></font></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%2322C55E" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Wireframe</b><br/><sub>Plan the layout and flow</sub></font></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/cursor-click-bold.svg?color=%23FACC15" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Prototype</b><br/><sub>Clickable screens to test</sub></font></td>
-          <td align="center" width="25%"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23A855F7" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Build</b><br/><sub>Turn designs into working apps</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%233B82F6" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Research</b><br/><sub>Understand users</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%2322C55E" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Wireframe</b><br/><sub>Plan the layout</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/cursor-click-bold.svg?color=%23FACC15" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Prototype</b><br/><sub>Test the flow</sub></font></td>
+          <td align="center" width="25%"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23A855F7" width="28" alt="" /><br/><font face="Consolas, monospace"><b>Build</b><br/><sub>Turn into code</sub></font></td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
-<hr/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:EC4899&height=2&section=header" width="100%" /></p>
 
 <h2>
   <font face="Consolas, monospace">
@@ -144,9 +146,10 @@
   </font>
 </h2>
 
-<table>
+<!-- UX Improvement: Project Card layout -->
+<table width="100%" style="background-color: #0D1117; border-radius: 8px; border: 1px solid #30363D;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="65%" valign="top" style="padding: 20px;">
       <font face="Consolas, monospace">
         <h3><a href="https://github.com/melody-sheep/chemstock-app">ChemStock</a></h3>
         <p>
@@ -162,28 +165,27 @@
           <li><img src="https://api.iconify.design/ph/users-three-bold.svg?color=%23EC4899" width="16" alt="" /> 4 user roles across multiple branches</li>
         </ul>
       </font>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In_Development-FACC15?style=flat-square&labelColor=161B22" alt="Status: In development" />
-        <img src="https://img.shields.io/badge/Test_Run-Late_2026-3B82F6?style=flat-square&labelColor=161B22" alt="Test run: late 2026" />
-        <img src="https://img.shields.io/badge/Platform-Android-22C55E?style=flat-square&labelColor=161B22" alt="Platform: Android" />
-      </p>
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="35%" valign="top" align="center" style="padding: 20px;">
+      <br/><br/>
+      <a href="https://github.com/melody-sheep/chemstock-app">
+        <img src="https://img.shields.io/badge/Repo-melody--sheep%2Fchemstock--app-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Development-FACC15?style=flat-square&labelColor=161B22" alt="Status: In development" />
       <br/>
-      <font face="Consolas, monospace">
-        <sub><b>BUILT WITH</b></sub>
-      </font>
+      <img src="https://img.shields.io/badge/Test_Run-Late_2026-3B82F6?style=flat-square&labelColor=161B22" alt="Test run: late 2026" />
+      <br/>
+      <img src="https://img.shields.io/badge/Platform-Android-22C55E?style=flat-square&labelColor=161B22" alt="Platform: Android" />
       <br/><br/>
+      <sub><b>BUILT WITH</b></sub>
+      <br/>
       <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite&perline=3" alt="ChemStock stack" loading="lazy" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
-      <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
     </td>
   </tr>
 </table>
 
-<hr/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:EC4899&height=2&section=header" width="100%" /></p>
 
 <h2>
   <font face="Consolas, monospace">
@@ -192,7 +194,7 @@
   </font>
 </h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=melody-sheep&hide_border=true&background=0D1117&stroke=30363D&ring=A855F7&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub streak" loading="lazy" />
@@ -208,7 +210,7 @@
   </tr>
 </table>
 
-<hr/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-melody--sheep-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
