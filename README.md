@@ -33,8 +33,16 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=melody-sheep&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=3B82F6&text_color=C9D1D9&ring_color=A855F7" width="100%" alt="GitHub stats" loading="lazy" />
-      <br/>
+      <!-- Replaced the broken stats card with reliable connect badges -->
+      <br/><br/>
+      <h4>Let's Connect</h4>
+      <p>
+        <a href="https://github.com/melody-sheep"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <br/><br/>
+        <a href="https://github.com/melody-sheep/chemstock-app"><img src="https://img.shields.io/badge/Project-ChemStock-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="ChemStock" /></a>
+      </p>
+      <br/><br/>
+      <!-- Views and Followers remain intact -->
       <img src="https://api.visitorbadge.io/api/visitors?path=melody-sheep&label=Views&labelColor=%23161B22&countColor=%233B82F6&style=flat-square" alt="Profile views" />
       <img src="https://img.shields.io/github/followers/melody-sheep?label=Followers&labelColor=161B22&color=22C55E&style=flat-square" alt="Followers" />
     </td>
@@ -145,14 +153,12 @@
       </p>
     </td>
     <td width="45%" valign="top" align="center">
-      <a href="https://github.com/melody-sheep/chemstock-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=melody-sheep&repo=chemstock-app&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=22C55E&hide_border=true&show_owner=false" width="100%" alt="ChemStock repo card" loading="lazy" />
-      </a>
-      <br/><br/>
+      <!-- Replaced the broken pin stats card with just the tech stack badges -->
+      <br/>
       <sub><b>BUILT WITH</b></sub>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite&perline=5" alt="ChemStock stack" loading="lazy" />
-      <br/>
+      <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite&perline=3" alt="ChemStock stack" loading="lazy" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
       <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
       <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
