@@ -59,40 +59,86 @@
 <h2>
   <font face="Consolas, monospace">
     <img src="https://api.iconify.design/ph/stack-bold.svg?color=%23EF4444" width="26" align="top" alt="" />
-    Tech Stack
+    When I code, I rely on
   </font>
 </h2>
 
-<table width="100%" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(239, 68, 68, 0.3); padding: 10px;">
+<table width="100%">
   <tr>
-    <td width="170" valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23EF4444" width="18" align="top" alt="" />&nbsp; <b>Languages</b></font></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,c,cpp,cs" alt="Languages" loading="lazy" /></td>
-  </tr>
-  <tr>
-    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/layout-bold.svg?color=%23F97316" width="18" align="top" alt="" />&nbsp; <b>Front End</b></font></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Front end" loading="lazy" />&nbsp;<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo" /></td>
-  </tr>
-  <tr>
-    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/hard-drives-bold.svg?color=%23F59E0B" width="18" align="top" alt="" />&nbsp; <b>Back End</b></font></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,prisma,nestjs" alt="Back end" loading="lazy" /></td>
-  </tr>
-  <tr>
-    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/database-bold.svg?color=%23DC2626" width="18" align="top" alt="" />&nbsp; <b>Databases</b></font></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite,firebase,mongodb" alt="Databases" loading="lazy" /></td>
-  </tr>
-  <tr>
-    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/toolbox-bold.svg?color=%23EC4899" width="18" align="top" alt="" />&nbsp; <b>Tools</b></font></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,idea,notion" alt="Tools" loading="lazy" /></td>
-  </tr>
-  <tr>
-    <td valign="middle"><font face="Consolas, monospace"><img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%23F43F5E" width="18" align="top" alt="" />&nbsp; <b>Learning</b></font></td>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/fire-bold.svg?color=%23F97316" width="18" align="top" alt="" />&nbsp; <b>Recently using</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=vite,fastapi,vercel" alt="Learning frameworks" loading="lazy" /><br/>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-      <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%23EC4899" width="18" align="top" alt="" />&nbsp; <b>AI tools</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+      <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" alt="Midjourney" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/code-bold.svg?color=%23EF4444" width="18" align="top" alt="" />&nbsp; <b>Languages</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/layout-bold.svg?color=%23F97316" width="18" align="top" alt="" />&nbsp; <b>Front End</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/hard-drives-bold.svg?color=%23F59E0B" width="18" align="top" alt="" />&nbsp; <b>Back End</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/database-bold.svg?color=%23DC2626" width="18" align="top" alt="" />&nbsp; <b>Databases</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="middle"><img src="https://api.iconify.design/ph/toolbox-bold.svg?color=%23EC4899" width="18" align="top" alt="" />&nbsp; <b>Tools</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
     </td>
   </tr>
 </table>
@@ -179,10 +225,18 @@
       <br/><br/>
       <sub><b>BUILT WITH</b></sub>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,supabase,postgres,express,sqlite&perline=3" alt="ChemStock stack" loading="lazy" />
-      <br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <br/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br/>
       <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
       <img src="https://img.shields.io/badge/React_Navigation-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React Navigation" />
+      <br/>
       <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
     </td>
   </tr>
@@ -200,8 +254,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <!-- Using herokuapp backup URL for streak stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=melody-sheep&hide_border=true&background=0D1117&stroke=30363D&ring=EF4444&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub streak" loading="lazy" />
+      <img src="https://streak-stats.demolab.com?user=melody-sheep&hide_border=true&background=0D1117&stroke=30363D&ring=EF4444&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub streak" loading="lazy" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melody-sheep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&custom_title=Most%20Used%20Languages" width="100%" alt="Most used languages" loading="lazy" />
